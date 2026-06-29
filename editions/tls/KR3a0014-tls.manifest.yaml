@@ -1,0 +1,248 @@
+canonical_identifier: bkk:krp/KR3a0014/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3a0014/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中說
+  identifiers:
+    krp: KR3a0014
+  tags:
+    kr-categories: KR3a
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-zh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0014.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3a0014_001-tls.yaml, hash: 'sha256:47950c23128871a748f514759685f5a199c363f4367243b5c4615b1df0ab8c45'}
+  - {seq: 2, filename: KR3a0014_002-tls.yaml, hash: 'sha256:0cbac7441037a6f228011a770f0c63074b524a61319ab1eadd8f51e461f67c0f'}
+  - {seq: 3, filename: KR3a0014_003-tls.yaml, hash: 'sha256:4efa4ad28d0fb90a84c1468b8b55d927a43e692280570e8f47a364b3968d10bf'}
+  - {seq: 4, filename: KR3a0014_004-tls.yaml, hash: 'sha256:fb400701bfab630873d9cf375349f8dbb8d2c8aab69927f95c2ac2b2dbe4fac4'}
+  - {seq: 5, filename: KR3a0014_005-tls.yaml, hash: 'sha256:9688aca4d394397226387d7a347453dae45f90a3c1b4fba79b23e206eb946ca8'}
+  - {seq: 6, filename: KR3a0014_006-tls.yaml, hash: 'sha256:63e2e142eced8f18a1dd705f4dc658a60a9bd678aa1c8529ac0fcad89027f328'}
+  - {seq: 7, filename: KR3a0014_007-tls.yaml, hash: 'sha256:d84a1f6f39b58d4693ff04f1976ea2776efa662bfbd48bd9b8270e9de47f5f37'}
+  - {seq: 8, filename: KR3a0014_008-tls.yaml, hash: 'sha256:36e6965d7a3e1b259d3cd1700406136d39d0787aaf297921f45097702ac70a73'}
+  - {seq: 9, filename: KR3a0014_009-tls.yaml, hash: 'sha256:c91d81e52d199ffcac6ed7e9738ac66a5fbe800bf940016b3a43cfe9cfb3a24b'}
+  - {seq: 10, filename: KR3a0014_010-tls.yaml, hash: 'sha256:6a9f4706f9d28026b045366f390306b669d55584595ffeef337573522d45638e'}
+  - {seq: 11, filename: KR3a0014_011-tls.yaml, hash: 'sha256:2f32aa17bae1b8d1bde2f1c9c699415692feb8e8a8c5534676a2f314ba46903d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3a0014_001-tls.markers.yaml, hash: 'sha256:22e8b71acaa140ddcce406c87185832e2cb319e283e9f4f6a24d7209d9ccf3c5'}
+  - {seq: 2, role: markers, filename: assets/KR3a0014_002-tls.markers.yaml, hash: 'sha256:af8f610375a656af7f44aac97c85e7e7536388458c1f823bf2103f45897fd7c7'}
+  - {seq: 3, role: markers, filename: assets/KR3a0014_003-tls.markers.yaml, hash: 'sha256:b5231492372d4db61da7f5b1dfd0d37cb3b4399ae90b2f89bf304ddef0ccae61'}
+  - {seq: 4, role: markers, filename: assets/KR3a0014_004-tls.markers.yaml, hash: 'sha256:dc6aa45bd711dbe04b800c3f5a765d35b9b1ec4fa5bd652c986923e5a1e5b3b4'}
+  - {seq: 5, role: markers, filename: assets/KR3a0014_005-tls.markers.yaml, hash: 'sha256:75443413ba75a2cf1b526f23adb8fe2ea5cde854716332698d0d8bba315d30ff'}
+  - {seq: 6, role: markers, filename: assets/KR3a0014_006-tls.markers.yaml, hash: 'sha256:cc5a029d844888436a4cf3f089f50e6f1f7f8503ccbaa6799b742a1bed07dfb6'}
+  - {seq: 7, role: markers, filename: assets/KR3a0014_007-tls.markers.yaml, hash: 'sha256:1bbff88de09a16fdc5783a8c1d5d08a975dc904841cecfa90c38d26045e41698'}
+  - {seq: 8, role: markers, filename: assets/KR3a0014_008-tls.markers.yaml, hash: 'sha256:589d8635babbee462ed8c977be502738b9ec05c1dae73d2b47842c3b0c3d92e5'}
+  - {seq: 9, role: markers, filename: assets/KR3a0014_009-tls.markers.yaml, hash: 'sha256:b62b2a32ae62a481bd3b039c20288d2f73850f84a48751a8e9d7645e558259ee'}
+  - {seq: 10, role: markers, filename: assets/KR3a0014_010-tls.markers.yaml, hash: 'sha256:96202bb568782404a888bd70c892c29bee34772d6d838077cb7cccf06554e1d9'}
+  - {seq: 11, role: markers, filename: assets/KR3a0014_011-tls.markers.yaml, hash: 'sha256:c33a7b9ba6e6a96d5b5cb80039cdb4c33b70d7249df186d85c57bae69aa9ca85'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3a0014_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 2151
+  label: 中說卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0014_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 中說卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0014_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 2160
+  label: 中說卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0014_tls_003-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0014_tls_003-1a.4-h
+    span:
+    - body
+    - 5
+    - 2296
+  label: 事君篇
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0014_tls_003-1a.4-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 事君篇
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0014_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 2233
+  label: 中說卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0014_tls_005-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0014_tls_005-1a.4-h
+    span:
+    - body
+    - 5
+    - 2257
+  label: 問易篇
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0014_tls_006-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0014_tls_006-1a.4-h
+    span:
+    - body
+    - 5
+    - 2099
+  label: 禮樂篇
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0014_tls_007-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0014_tls_007-1a.4-h
+    span:
+    - body
+    - 5
+    - 1877
+  label: 述史篇
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0014_tls_008-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0014_tls_008-1a.4-h
+    span:
+    - body
+    - 5
+    - 2447
+  label: 魏相篇
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0014_tls_009-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0014_tls_009-1a.4-h
+    span:
+    - body
+    - 5
+    - 1933
+  label: 立命篇
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0014_tls_010-1a.1
+    span:
+    - body
+    - 0
+    - 5
+  label: 中說卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0014_tls_010-1a.4-h
+    span:
+    - body
+    - 5
+    - 1571
+  label: 關朗篇
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3a0014_tls_011-1a.1
+    span:
+    - body
+    - 0
+    - 5892
+  label: 叙篇
+  type: section
+  level: 1
+hash: sha256:10f0205241f0fc6cb248715f200724bff5f22fb5ca7c7c00b45efea6cce87cde
