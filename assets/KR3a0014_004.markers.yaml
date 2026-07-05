@@ -250,7 +250,6 @@ markers:
   - {type: punctuation, offset: 251, content: 《, id: KR3a0014_tls_004-bkkpn64}
   - {type: variant, offset: 252, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 253, content: 》, id: KR3a0014_tls_004-bkkpn65}
-  - {type: substitution, offset: 255, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
   - {type: variant, offset: 257, length: 1, content: 泰, SBCK: 㤗}
   - {type: variant, offset: 257, length: 1, content: 泰, krp: 㤗}
   - {type: punctuation, offset: 258, content: 。, id: KR3a0014_tls_004-bkkpn66}
@@ -690,7 +689,6 @@ markers:
   - {type: variant, offset: 754, length: 1, content: 溫, SBCK: 温}
   - {type: variant, offset: 754, length: 1, content: 溫, WYG: 温}
   - {type: variant, offset: 754, length: 1, content: 溫, krp: 温}
-  - {type: substitution, offset: 756, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: punctuation, offset: 760, content: ？, id: KR3a0014_tls_004-bkkpn187}
   - {type: 'tls:seg', offset: 760, content: '', id: KR3a0014_tls_004-20a.4}
   - {type: punctuation, offset: 762, content: ：, id: KR3a0014_tls_004-bkkpn188}
@@ -821,7 +819,6 @@ markers:
   - {type: punctuation, offset: 915, content: ：, id: KR3a0014_tls_004-bkkpn222}
   - {type: 'tls:seg', offset: 915, content: '', id: KR3a0014_tls_004-25a.5}
   - {type: variant, offset: 916, length: 1, content: 閑, WYG: 閒}
-  - {type: substitution, offset: 916, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4095}}
   - {type: punctuation, offset: 918, content: 。, id: KR3a0014_tls_004-bkkpn223}
   - {type: 'tls:seg', offset: 918, content: '', id: KR3a0014_tls_004-25a.6}
   - {type: variant, offset: 918, length: 0, content: '', SBCK: 静退}
@@ -1043,7 +1040,6 @@ markers:
   - {type: variant, offset: 1158, length: 0, content: '', SBCK: 時之典晉賢蕩焉故乱老莊存太古之教非適}
   - {type: variant, offset: 1158, length: 0, content: '', WYG: 老莊存太古之教非適時之典晉賢蕩焉故亂}
   - {type: variant, offset: 1158, length: 0, content: '', krp: 時之典晉賢蕩焉故乱老莊存太古之教非適}
-  - {type: substitution, offset: 1158, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 1165, content: ，, id: KR3a0014_tls_004-bkkpn296}
   - {type: 'tls:seg', offset: 1165, content: '', id: KR3a0014_tls_004-31a.8}
   - {type: punctuation, offset: 1171, content: 。, id: KR3a0014_tls_004-bkkpn297}
@@ -1287,7 +1283,6 @@ markers:
   - {type: variant, offset: 1399, length: 1, content: 為, krp: 爲}
   - {type: punctuation, offset: 1404, content: ，, id: KR3a0014_tls_004-bkkpn364}
   - {type: 'tls:seg', offset: 1404, content: '', id: KR3a0014_tls_004-38a.5}
-  - {type: substitution, offset: 1405, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 1410, content: 。, id: KR3a0014_tls_004-bkkpn365}
   - {type: 'tls:seg', offset: 1410, content: '', id: KR3a0014_tls_004-38a.6}
   - {type: variant, offset: 1410, length: 0, content: '', SBCK: 裝貌樸虚}
@@ -1398,7 +1393,6 @@ markers:
   - {type: variant, offset: 1527, length: 1, content: 鐘, WYG: 蘇威封邳國公鍾}
   - {type: variant, offset: 1527, length: 1, content: 鐘, krp: 邳囯公蘇威封鍾}
   - {type: punctuation, offset: 1531, content: 、, id: KR3a0014_tls_004-bkkpn391}
-  - {type: substitution, offset: 1531, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3718}}
   - {type: punctuation, offset: 1537, content: 。, id: KR3a0014_tls_004-bkkpn392}
   - {type: 'tls:seg', offset: 1537, content: '', id: KR3a0014_tls_004-41a.4}
   - {type: punctuation, offset: 1541, content: ：, id: KR3a0014_tls_004-bkkpn393}
@@ -1531,7 +1525,6 @@ markers:
   - {type: variant, offset: 1659, length: 0, content: '', krp: 中百泛愛擇}
   - {type: punctuation, offset: 1661, content: ：, id: KR3a0014_tls_004-bkkpn423}
   - {type: 'tls:seg', offset: 1661, content: '', id: KR3a0014_tls_004-45a.3}
-  - {type: substitution, offset: 1661, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3483}}
   - {type: variant, offset: 1662, length: 1, content: 錯, SBCK: 厝}
   - {type: variant, offset: 1662, length: 1, content: 錯, WYG: 厝}
   - {type: variant, offset: 1662, length: 1, content: 錯, krp: 厝}
@@ -1567,7 +1560,6 @@ markers:
   - {type: variant, offset: 1698, length: 1, content: 誌, SBCK: 志志於治道而志謂帝王有詔者也未形乎制}
   - {type: variant, offset: 1698, length: 1, content: 誌, WYG: 志志謂帝王有志於治道而未形乎制詔者也}
   - {type: variant, offset: 1698, length: 1, content: 誌, krp: 志志於治道而志謂帝王有詔者也未形乎制}
-  - {type: substitution, offset: 1698, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: punctuation, offset: 1699, content: ，, id: KR3a0014_tls_004-bkkpn433}
   - {type: 'tls:seg', offset: 1699, content: '', id: KR3a0014_tls_004-46a.8}
   - {type: punctuation, offset: 1701, content: 。, id: KR3a0014_tls_004-bkkpn434}
@@ -2059,4 +2051,4 @@ markers:
   - {type: page-break, offset: 2233, content: '', id: KR3a0014_WYG_004-11b, image: WYG0696/WYG0696-0546d.png}
   - {type: variant, offset: 2233, length: 0, content: '', krp: 隋不乱楊素賢則中說卷四}
   back: []
-hash: sha256:f0e8f27cf3f00e7f9b8a679032caf2c1d095635f696209795dbeb8c5a4340c35
+hash: sha256:0ec09b1ba87a1b02e4358f8266d97f333efb51423013ecb8767e6e97a38c2467

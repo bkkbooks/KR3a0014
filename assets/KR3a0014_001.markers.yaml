@@ -59,7 +59,6 @@ markers:
   - {type: variant, offset: 81, length: 1, content: 錄, SBCK: 録}
   - {type: variant, offset: 81, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 81, length: 1, content: 錄, krp: 録}
-  - {type: substitution, offset: 81, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 82, content: 》, id: KR3a0014_tls_001-bkkpn16}
   - {type: page-break, offset: 82, content: '', id: KR3a0014_WYG_001-1b, image: WYG0696/WYG0696-0525d.png}
   - {type: punctuation, offset: 84, content: ，, id: KR3a0014_tls_001-bkkpn17}
@@ -187,7 +186,6 @@ markers:
   - {type: variant, offset: 260, length: 1, content: 錄, SBCK: 録}
   - {type: variant, offset: 260, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 260, length: 1, content: 錄, krp: 録}
-  - {type: substitution, offset: 260, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 261, content: ，, id: KR3a0014_tls_001-bkkpn66}
   - {type: 'tls:seg', offset: 261, content: '', id: KR3a0014_tls_001-4a.13}
   - {type: variant, offset: 263, length: 1, content: 徵, SBCK: 徴}
@@ -328,7 +326,6 @@ markers:
   - {type: variant, offset: 433, length: 0, content: '', krp: 泫胡畎反自漢末乱至隋}
   - {type: variant, offset: 438, length: 1, content: 啟, SBCK: 啓}
   - {type: variant, offset: 438, length: 1, content: 啟, krp: 啓}
-  - {type: substitution, offset: 438, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 440, content: 、, id: KR3a0014_tls_001-bkkpn111}
   - {type: punctuation, offset: 443, content: ，, id: KR3a0014_tls_001-bkkpn112}
   - {type: 'tls:seg', offset: 443, content: '', id: KR3a0014_tls_001-8a.6}
@@ -602,7 +599,6 @@ markers:
   - {type: variant, offset: 795, length: 1, content: 兇, SBCK: 凶易中神在}
   - {type: variant, offset: 795, length: 1, content: 兇, WYG: 凶神在易中}
   - {type: variant, offset: 795, length: 1, content: 兇, krp: 凶易中神在}
-  - {type: substitution, offset: 795, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0052}}
   - {type: punctuation, offset: 796, content: 。, id: KR3a0014_tls_001-bkkpn206}
   - {type: xml-element, offset: 796, content: '', id: KR3a0014_tls_001-bkkxmlele28}
   - {type: xml-element, offset: 796, content: '', id: KR3a0014_tls_001-bkkxmlele29}
@@ -858,7 +854,6 @@ markers:
   - {type: variant, offset: 1072, length: 1, content: 錄, SBCK: 録}
   - {type: variant, offset: 1072, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 1072, length: 1, content: 錄, krp: 録}
-  - {type: substitution, offset: 1072, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 1073, content: 》, id: KR3a0014_tls_001-bkkpn276}
   - {type: punctuation, offset: 1073, content: ，, id: KR3a0014_tls_001-bkkpn277}
   - {type: 'tls:seg', offset: 1073, content: '', id: KR3a0014_tls_001-20a.3}
@@ -1784,7 +1779,6 @@ markers:
   - {type: variant, offset: 2070, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 2070, length: 1, content: 絕, WYG: 絶}
   - {type: variant, offset: 2070, length: 1, content: 絕, krp: 絶}
-  - {type: substitution, offset: 2070, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 2073, content: 》, id: KR3a0014_tls_001-bkkpn536}
   - {type: punctuation, offset: 2073, content: ，, id: KR3a0014_tls_001-bkkpn537}
   - {type: 'tls:seg', offset: 2073, content: '', id: KR3a0014_tls_001-52a.3}
@@ -1801,7 +1795,6 @@ markers:
   - {type: variant, offset: 2093, length: 0, content: '', WYG: 劉峻字孝標性率多毁時任昉死有子東里冬衣葛裘孝標作絶交論以譏任公之友然又彰任公不知人耳}
   - {type: variant, offset: 2093, length: 0, content: '', krp: 葛裘孝標作絶交論以譏任公之友然又彰任公劉峻字孝標性率多毀時任昉死有子東里冬衣人耳不知}
   - {type: punctuation, offset: 2094, content: 《, id: KR3a0014_tls_001-bkkpn542}
-  - {type: substitution, offset: 2094, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 2097, content: 》, id: KR3a0014_tls_001-bkkpn543}
   - {type: punctuation, offset: 2097, content: ，, id: KR3a0014_tls_001-bkkpn544}
   - {type: 'tls:seg', offset: 2097, content: '', id: KR3a0014_tls_001-52a.8}
@@ -1867,4 +1860,4 @@ markers:
   - {type: variant, offset: 2151, length: 0, content: '', WYG: 阮瞻作無鬼論謂可以辯幽明盖不知聖人不語之旨中說卷一}
   - {type: variant, offset: 2151, length: 0, content: '', krp: 明盖不知聖人不語之言阮瞻作无鬼論謂可以辯幽中說卷第一}
   back: []
-hash: sha256:441656f4933d561fd1de50a54252b6347aea9166fc741d203e81488c9ba48fb3
+hash: sha256:779e0d819a8b9f285af4ea7036ea4317c3936cc6ecfbc6dac282ec1c10794024
