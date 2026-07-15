@@ -4,6 +4,7 @@ markers:
   front:
   - {type: page-break, offset: 0, content: '', id: KR3a0014_SBCK_003-1a}
   body:
+  - {type: substitution, offset: 1, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: variant, offset: 3, length: 1, content: 第, WYG: 二欽定四庫全書中說卷}
   - {type: page-break, offset: 3, content: '', id: KR3a0014_WYG_003-1a, image: WYG0696/WYG0696-0536a.png}
   - {type: xml-element, offset: 5, content: '', id: KR3a0014_tls_003-bkkxmlele1}
@@ -220,6 +221,7 @@ markers:
   - {type: variant, offset: 262, length: 1, content: 彥, krp: 彦}
   - {type: punctuation, offset: 264, content: ，, id: KR3a0014_tls_003-bkkpn57}
   - {type: 'tls:seg', offset: 264, content: '', id: KR3a0014_tls_003-7a.8}
+  - {type: substitution, offset: 264, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: punctuation, offset: 268, content: 。, id: KR3a0014_tls_003-bkkpn58}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3a0014_tls_003-7a.9}
   - {type: variant, offset: 268, length: 0, content: '', SBCK: 書本史稱朝章国命一人楊愔字遵彦文宣時爲尚已而}
@@ -566,6 +568,7 @@ markers:
   - {type: variant, offset: 672, length: 0, content: '', WYG: 昭字明逺為宋臨江王㕘軍有虚詞而官不達故多怨刺淹字文通為宋建平王從事有罪下獄上書其言急皆狷可見矣}
   - {type: variant, offset: 672, length: 1, content: 吳, krp: 怨剌淹字文通爲宋建平王從事有罪下獄上書其昭字明逺爲宋臨江王叅軍有虚詞而官不逹故多可見矣言急皆狷吴}
   - {type: punctuation, offset: 674, content: 、, id: KR3a0014_tls_003-bkkpn153}
+  - {type: substitution, offset: 675, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: punctuation, offset: 676, content: ，, id: KR3a0014_tls_003-bkkpn154}
   - {type: 'tls:seg', offset: 676, content: '', id: KR3a0014_tls_003-19a.14}
   - {type: punctuation, offset: 681, content: 。, id: KR3a0014_tls_003-bkkpn155}
@@ -813,6 +816,7 @@ markers:
   - {type: 'tls:seg', offset: 921, content: '', id: KR3a0014_tls_003-27a.3}
   - {type: punctuation, offset: 923, content: ：, id: KR3a0014_tls_003-bkkpn222}
   - {type: 'tls:seg', offset: 923, content: '', id: KR3a0014_tls_003-27a.4}
+  - {type: substitution, offset: 927, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 929, content: ，, id: KR3a0014_tls_003-bkkpn223}
   - {type: 'tls:seg', offset: 929, content: '', id: KR3a0014_tls_003-27a.5}
   - {type: variant, offset: 929, length: 0, content: '', SBCK: 明变約理}
@@ -1364,6 +1368,7 @@ markers:
   - {type: punctuation, offset: 1558, content: 》, id: KR3a0014_tls_003-bkkpn376}
   - {type: punctuation, offset: 1559, content: ，, id: KR3a0014_tls_003-bkkpn377}
   - {type: 'tls:seg', offset: 1559, content: '', id: KR3a0014_tls_003-42a.6}
+  - {type: substitution, offset: 1563, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 1564, content: ；, id: KR3a0014_tls_003-bkkpn378}
   - {type: 'tls:seg', offset: 1564, content: '', id: KR3a0014_tls_003-42a.7}
   - {type: variant, offset: 1564, length: 0, content: '', SBCK: 敢辯興衰之極論㳂革而已不}
@@ -1375,6 +1380,7 @@ markers:
   - {type: punctuation, offset: 1568, content: 》, id: KR3a0014_tls_003-bkkpn382}
   - {type: punctuation, offset: 1569, content: ，, id: KR3a0014_tls_003-bkkpn383}
   - {type: 'tls:seg', offset: 1569, content: '', id: KR3a0014_tls_003-42a.8}
+  - {type: substitution, offset: 1569, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 1574, content: 。, id: KR3a0014_tls_003-bkkpn384}
   - {type: 'tls:seg', offset: 1574, content: '', id: KR3a0014_tls_003-42a.9}
   - {type: variant, offset: 1574, length: 0, content: '', SBCK: 議其得失之由辯治乱之事不敢}
@@ -1411,6 +1417,7 @@ markers:
   - {type: variant, offset: 1612, length: 1, content: 閑, SBCK: 間}
   - {type: variant, offset: 1612, length: 1, content: 閑, WYG: 閒}
   - {type: variant, offset: 1612, length: 1, content: 閑, krp: 間}
+  - {type: substitution, offset: 1612, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 1616, content: 。, id: KR3a0014_tls_003-bkkpn394}
   - {type: 'tls:seg', offset: 1616, content: '', id: KR3a0014_tls_003-43a.3}
   - {type: punctuation, offset: 1620, content: ，, id: KR3a0014_tls_003-bkkpn395}
@@ -1492,6 +1499,7 @@ markers:
   - {type: variant, offset: 1685, length: 1, content: 賓, SBCK: 賔}
   - {type: variant, offset: 1685, length: 1, content: 賓, WYG: 賔}
   - {type: variant, offset: 1685, length: 1, content: 賓, krp: 賔}
+  - {type: substitution, offset: 1687, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20151}}
   - {type: punctuation, offset: 1689, content: ，, id: KR3a0014_tls_003-bkkpn410}
   - {type: 'tls:seg', offset: 1689, content: '', id: KR3a0014_tls_003-45a.3}
   - {type: variant, offset: 1689, length: 0, content: '', SBCK: 味不重}
@@ -1967,6 +1975,7 @@ markers:
   - {type: variant, offset: 2183, length: 1, content: 跡, SBCK: 迹}
   - {type: variant, offset: 2183, length: 1, content: 跡, WYG: 迹}
   - {type: variant, offset: 2183, length: 1, content: 跡, krp: 迹}
+  - {type: substitution, offset: 2183, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 2184, content: 。, id: KR3a0014_tls_003-bkkpn528}
   - {type: 'tls:seg', offset: 2184, content: '', id: KR3a0014_tls_003-57a.5}
   - {type: punctuation, offset: 2185, content: ：, id: KR3a0014_tls_003-bkkpn529}
@@ -1976,6 +1985,7 @@ markers:
   - {type: variant, offset: 2196, length: 1, content: 絕, SBCK: 絶}
   - {type: variant, offset: 2196, length: 1, content: 絕, WYG: 絶}
   - {type: variant, offset: 2196, length: 1, content: 絕, krp: 絶}
+  - {type: substitution, offset: 2196, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 2198, content: 。, id: KR3a0014_tls_003-bkkpn531}
   - {type: 'tls:seg', offset: 2198, content: '', id: KR3a0014_tls_003-57a.8}
   - {type: variant, offset: 2198, length: 1, content: 內, SBCK: 也曰者假周公爲言也不屑不介意也迹謂攝位内}
@@ -2056,7 +2066,8 @@ markers:
   - {type: variant, offset: 2292, length: 0, content: '', SBCK: 倫之法責其敗人}
   - {type: variant, offset: 2292, length: 0, content: '', WYG: 貴其敗人倫之法}
   - {type: variant, offset: 2292, length: 0, content: '', krp: 倫之法責其敗人}
+  - {type: substitution, offset: 2293, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: xml-element, offset: 2296, content: '', id: KR3a0014_tls_003-bkkxmlele122}
   - {type: xml-element, offset: 2296, content: '', id: KR3a0014_tls_003-bkkxmlele123}
   back: []
-hash: sha256:dcc467125dc1d2c4e21ed5b30100bcfbbc79d59b367993669bfe85ad7a5f6206
+hash: sha256:90f13e7ce8a5b74ecba8b85030d60d6b977e5f40ecf6ae8a12d6f73f349c8c2d
