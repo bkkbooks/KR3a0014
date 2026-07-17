@@ -1028,6 +1028,7 @@ markers:
   - {type: line-break, offset: 2364, content: '', id: KR3a0014_SBCK_010-5a11}
   - {type: punctuation, offset: 2365, content: (, id: KR3a0014_krp_010-bkkpn290}
   - {type: variant, offset: 2365, length: 14, content: 長孫无忌所抑房魏等不能振之也, WYG: ''}
+  - {type: 'voice:problem', offset: 2365, length: 0, id: KR3a0014_krp_010-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 2365}
   - {type: punctuation, offset: 2379, content: /, id: KR3a0014_krp_010-bkkpn291}
   - {type: variant, offset: 2381, length: 1, content: 隱, WYG: 隠}
   - {type: variant, offset: 2393, length: 1, content: 爲, WYG: 為長孫無忌所抑房魏等不能正之也}
@@ -1042,6 +1043,7 @@ markers:
       ', id: KR3a0014_krp_010-bkkkrnewl2}
   - {type: line-break, offset: 0, content: '', id: KR3a0014_SBCK_010-5b01}
   - {type: indent, offset: 0, content: 　　　, id: KR3a0014_krp_010-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3a0014_krp_010-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR3a0014_krp_010-bkkkrnewl3}
@@ -2860,4 +2862,4 @@ markers:
   - {type: variant, offset: 6010, length: 0, content: '', WYG: 中説卷十}
   - {type: page-break, offset: 6010, content: '', id: KR3a0014_WYG_010-25b, image: WYG0696/WYG0696-0586d.png}
   back: []
-hash: sha256:0cb0c9b79caad47090fed41f725bedc71918b6021df243ace0dea3f9266f0fe5
+hash: sha256:b8f22be7ebb4c101ebcf343a545c506723f6a018a848ab92cf5e49d96e0438e9

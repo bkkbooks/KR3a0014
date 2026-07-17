@@ -22,6 +22,7 @@ markers:
   - {type: variant, offset: 28, length: 1, content: 丗, WYG: 世}
   - {type: punctuation, offset: 30, content: (, id: KR3a0014_krp_001-bkkpn1}
   - {type: variant, offset: 30, length: 0, content: '', WYG: 上黨}
+  - {type: voice, offset: 30, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 32, content: /, id: KR3a0014_krp_001-bkkpn2}
   - {type: variant, offset: 32, length: 2, content: 上黨, WYG: 堤}
   - {type: punctuation, offset: 34, content: ), id: KR3a0014_krp_001-bkkpn3}
@@ -35,11 +36,13 @@ markers:
   - {type: punctuation, offset: 36, content: ), id: KR3a0014_krp_001-bkkpn6}
   - {type: punctuation, offset: 42, content: (, id: KR3a0014_krp_001-bkkpn7}
   - {type: variant, offset: 42, length: 0, content: '', WYG: 斯}
+  - {type: voice, offset: 42, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 43, content: /, id: KR3a0014_krp_001-bkkpn8}
   - {type: variant, offset: 43, length: 1, content: 斯, WYG: ''}
   - {type: punctuation, offset: 44, content: ), id: KR3a0014_krp_001-bkkpn9}
   - {type: punctuation, offset: 52, content: (, id: KR3a0014_krp_001-bkkpn10}
   - {type: variant, offset: 52, length: 1, content: 時, WYG: ''}
+  - {type: voice, offset: 52, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 53, content: /, id: KR3a0014_krp_001-bkkpn11}
   - {type: punctuation, offset: 55, content: ), id: KR3a0014_krp_001-bkkpn12}
   - {type: variant, offset: 55, length: 0, content: '', WYG: 時}
@@ -49,6 +52,7 @@ markers:
   - {type: line-break, offset: 57, content: '', id: KR3a0014_SBCK_001-1a05}
   - {type: punctuation, offset: 67, content: (, id: KR3a0014_krp_001-bkkpn13}
   - {type: variant, offset: 67, length: 0, content: '', WYG: 志}
+  - {type: voice, offset: 67, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 68, content: /, id: KR3a0014_krp_001-bkkpn14}
   - {type: variant, offset: 68, length: 1, content: 志, WYG: ''}
   - {type: punctuation, offset: 69, content: ), id: KR3a0014_krp_001-bkkpn15}
@@ -80,6 +84,7 @@ markers:
   - {type: line-break, offset: 178, content: '', id: KR3a0014_SBCK_001-1a11}
   - {type: punctuation, offset: 197, content: (, id: KR3a0014_krp_001-bkkpn16}
   - {type: variant, offset: 197, length: 0, content: '', WYG: 自}
+  - {type: voice, offset: 197, length: 38, name: note, id: n5}
   - {type: punctuation, offset: 198, content: /, id: KR3a0014_krp_001-bkkpn17}
   - {type: variant, offset: 198, length: 1, content: 自, WYG: 生至銅川文中子世家言之備矣時變論至興}
   - {type: punctuation, offset: 199, content: ), id: KR3a0014_krp_001-bkkpn18}
@@ -103,6 +108,7 @@ markers:
   - {type: line-break, offset: 240, content: '', id: KR3a0014_SBCK_001-1b02}
   - {type: punctuation, offset: 246, content: (, id: KR3a0014_krp_001-bkkpn22}
   - {type: variant, offset: 246, length: 0, content: '', WYG: 大業九年自長安歸}
+  - {type: voice, offset: 246, length: 16, name: note, id: n6}
   - {type: punctuation, offset: 254, content: /, id: KR3a0014_krp_001-bkkpn23}
   - {type: variant, offset: 254, length: 8, content: 大業九年自長安帰, WYG: ''}
   - {type: punctuation, offset: 262, content: ), id: KR3a0014_krp_001-bkkpn24}
@@ -112,6 +118,7 @@ markers:
   - {type: line-break, offset: 269, content: '', id: KR3a0014_SBCK_001-1b03}
   - {type: punctuation, offset: 283, content: (, id: KR3a0014_krp_001-bkkpn25}
   - {type: variant, offset: 283, length: 0, content: '', WYG: 因祖徳考}
+  - {type: voice, offset: 283, length: 8, name: note, id: n7}
   - {type: punctuation, offset: 287, content: /, id: KR3a0014_krp_001-bkkpn26}
   - {type: variant, offset: 287, length: 4, content: 因祖德考, WYG: ''}
   - {type: punctuation, offset: 291, content: ), id: KR3a0014_krp_001-bkkpn27}
@@ -123,6 +130,7 @@ markers:
   - {type: variant, offset: 307, length: 1, content: 徴, WYG: 徵}
   - {type: punctuation, offset: 309, content: (, id: KR3a0014_krp_001-bkkpn28}
   - {type: variant, offset: 309, length: 0, content: '', WYG: 董常字履常}
+  - {type: voice, offset: 309, length: 42, name: note, id: n8}
   - {type: punctuation, offset: 314, content: /, id: KR3a0014_krp_001-bkkpn29}
   - {type: variant, offset: 314, length: 21, content: 董常字履常論謂歷代史臣於紀傳後賛論之類是也, WYG: ''}
   - {type: punctuation, offset: 319, content: ), id: KR3a0014_krp_001-bkkpn30}
@@ -141,12 +149,14 @@ markers:
   - {type: line-break, offset: 358, content: '', id: KR3a0014_SBCK_001-1b06}
   - {type: punctuation, offset: 358, content: (, id: KR3a0014_krp_001-bkkpn34}
   - {type: variant, offset: 358, length: 0, content: '', WYG: 去就適中}
+  - {type: voice, offset: 358, length: 8, name: note, id: n9}
   - {type: punctuation, offset: 362, content: /, id: KR3a0014_krp_001-bkkpn35}
   - {type: variant, offset: 362, length: 4, content: 去就適中, WYG: ''}
   - {type: punctuation, offset: 366, content: ), id: KR3a0014_krp_001-bkkpn36}
   - {type: variant, offset: 376, length: 1, content: 徴, WYG: 徵}
   - {type: punctuation, offset: 378, content: (, id: KR3a0014_krp_001-bkkpn37}
   - {type: variant, offset: 378, length: 0, content: '', WYG: 前賢文}
+  - {type: voice, offset: 378, length: 6, name: note, id: n10}
   - {type: punctuation, offset: 381, content: /, id: KR3a0014_krp_001-bkkpn38}
   - {type: variant, offset: 381, length: 3, content: 前賢文, WYG: ''}
   - {type: punctuation, offset: 384, content: ), id: KR3a0014_krp_001-bkkpn39}
@@ -156,12 +166,14 @@ markers:
   - {type: line-break, offset: 386, content: '', id: KR3a0014_SBCK_001-1b07}
   - {type: punctuation, offset: 390, content: (, id: KR3a0014_krp_001-bkkpn40}
   - {type: variant, offset: 390, length: 0, content: '', WYG: 化俗推移}
+  - {type: voice, offset: 390, length: 8, name: note, id: n11}
   - {type: punctuation, offset: 394, content: /, id: KR3a0014_krp_001-bkkpn41}
   - {type: variant, offset: 394, length: 4, content: 化俗推移, WYG: ''}
   - {type: punctuation, offset: 398, content: ), id: KR3a0014_krp_001-bkkpn42}
   - {type: variant, offset: 408, length: 1, content: 徴, WYG: 徵}
   - {type: punctuation, offset: 410, content: (, id: KR3a0014_krp_001-bkkpn43}
   - {type: variant, offset: 410, length: 0, content: '', WYG: 史}
+  - {type: voice, offset: 410, length: 6, name: note, id: n12}
   - {type: punctuation, offset: 411, content: /, id: KR3a0014_krp_001-bkkpn44}
   - {type: variant, offset: 411, length: 1, content: 史, WYG: 載言}
   - {type: punctuation, offset: 412, content: ), id: KR3a0014_krp_001-bkkpn45}
@@ -175,6 +187,7 @@ markers:
   - {type: punctuation, offset: 416, content: ), id: KR3a0014_krp_001-bkkpn48}
   - {type: punctuation, offset: 422, content: (, id: KR3a0014_krp_001-bkkpn49}
   - {type: variant, offset: 422, length: 0, content: '', WYG: 王言大道}
+  - {type: voice, offset: 422, length: 8, name: note, id: n13}
   - {type: punctuation, offset: 426, content: /, id: KR3a0014_krp_001-bkkpn50}
   - {type: variant, offset: 426, length: 4, content: 王言大道, WYG: ''}
   - {type: punctuation, offset: 430, content: ), id: KR3a0014_krp_001-bkkpn51}
@@ -184,12 +197,14 @@ markers:
   - {type: line-break, offset: 439, content: '', id: KR3a0014_SBCK_001-1b09}
   - {type: punctuation, offset: 441, content: (, id: KR3a0014_krp_001-bkkpn52}
   - {type: variant, offset: 441, length: 2, content: 文躰, WYG: ''}
+  - {type: voice, offset: 441, length: 4, name: note, id: n14}
   - {type: punctuation, offset: 443, content: /, id: KR3a0014_krp_001-bkkpn53}
   - {type: punctuation, offset: 445, content: ), id: KR3a0014_krp_001-bkkpn54}
   - {type: variant, offset: 445, length: 0, content: '', WYG: 文體}
   - {type: variant, offset: 451, length: 1, content: 収, WYG: 收}
   - {type: punctuation, offset: 460, content: (, id: KR3a0014_krp_001-bkkpn55}
   - {type: variant, offset: 460, length: 1, content: 収, WYG: ''}
+  - {type: voice, offset: 460, length: 17, name: note, id: n15}
   - {type: punctuation, offset: 461, content: /, id: KR3a0014_krp_001-bkkpn56}
   - {type: punctuation, offset: 462, content: ), id: KR3a0014_krp_001-bkkpn57}
   - {type: 'kr:newline', offset: 462, content: '
@@ -208,6 +223,7 @@ markers:
   - {type: variant, offset: 492, length: 1, content: 獲, SBCK: 􅀗}
   - {type: punctuation, offset: 493, content: (, id: KR3a0014_krp_001-bkkpn61}
   - {type: variant, offset: 493, length: 5, content: 則制度得失, WYG: ''}
+  - {type: voice, offset: 493, length: 11, name: note, id: n16}
   - {type: punctuation, offset: 498, content: /, id: KR3a0014_krp_001-bkkpn62}
   - {type: punctuation, offset: 504, content: ), id: KR3a0014_krp_001-bkkpn63}
   - {type: variant, offset: 504, length: 0, content: '', WYG: 則制度得矣}
@@ -222,6 +238,7 @@ markers:
   - {type: punctuation, offset: 519, content: (, id: KR3a0014_krp_001-bkkpn64}
   - {type: variant, offset: 519, length: 0, content: '', WYG: 史有明得失窮}
   - {type: page-break, offset: 519, content: '', id: KR3a0014_WYG_001-2b, image: WYG0696/WYG0696-0526b.png}
+  - {type: voice, offset: 519, length: 12, name: note, id: n17}
   - {type: punctuation, offset: 525, content: /, id: KR3a0014_krp_001-bkkpn65}
   - {type: variant, offset: 525, length: 6, content: 史有明得失窮, WYG: ''}
   - {type: punctuation, offset: 531, content: ), id: KR3a0014_krp_001-bkkpn66}
@@ -231,6 +248,7 @@ markers:
   - {type: line-break, offset: 543, content: '', id: KR3a0014_SBCK_001-2a02}
   - {type: punctuation, offset: 547, content: (, id: KR3a0014_krp_001-bkkpn67}
   - {type: variant, offset: 547, length: 5, content: 正則法當矣, WYG: ''}
+  - {type: voice, offset: 547, length: 11, name: note, id: n18}
   - {type: punctuation, offset: 552, content: /, id: KR3a0014_krp_001-bkkpn68}
   - {type: punctuation, offset: 558, content: ), id: KR3a0014_krp_001-bkkpn69}
   - {type: variant, offset: 558, length: 0, content: '', WYG: 正則法當矣}
@@ -240,6 +258,7 @@ markers:
   - {type: line-break, offset: 569, content: '', id: KR3a0014_SBCK_001-2a03}
   - {type: punctuation, offset: 575, content: (, id: KR3a0014_krp_001-bkkpn70}
   - {type: variant, offset: 575, length: 9, content: 職也職同躰異故曰分, WYG: ''}
+  - {type: voice, offset: 575, length: 18, name: note, id: n19}
   - {type: punctuation, offset: 584, content: /, id: KR3a0014_krp_001-bkkpn71}
   - {type: punctuation, offset: 593, content: ), id: KR3a0014_krp_001-bkkpn72}
   - {type: variant, offset: 593, length: 0, content: '', WYG: 職也職同體異故曰分}
@@ -249,6 +268,7 @@ markers:
   - {type: line-break, offset: 599, content: '', id: KR3a0014_SBCK_001-2a04}
   - {type: punctuation, offset: 610, content: (, id: KR3a0014_krp_001-bkkpn73}
   - {type: variant, offset: 610, length: 9, content: 模无經制紛紛多且乱, WYG: ''}
+  - {type: voice, offset: 610, length: 18, name: note, id: n20}
   - {type: punctuation, offset: 619, content: /, id: KR3a0014_krp_001-bkkpn74}
   - {type: variant, offset: 626, length: 1, content: 躰, WYG: 體}
   - {type: punctuation, offset: 628, content: ), id: KR3a0014_krp_001-bkkpn75}
@@ -263,6 +283,7 @@ markers:
   - {type: line-break, offset: 650, content: '', id: KR3a0014_SBCK_001-2a06}
   - {type: punctuation, offset: 664, content: (, id: KR3a0014_krp_001-bkkpn76}
   - {type: variant, offset: 664, length: 3, content: 紛乱故, WYG: ''}
+  - {type: voice, offset: 664, length: 6, name: note, id: n21}
   - {type: punctuation, offset: 667, content: /, id: KR3a0014_krp_001-bkkpn77}
   - {type: punctuation, offset: 670, content: ), id: KR3a0014_krp_001-bkkpn78}
   - {type: variant, offset: 670, length: 0, content: '', WYG: 紛亂故}
@@ -272,11 +293,13 @@ markers:
   - {type: line-break, offset: 673, content: '', id: KR3a0014_SBCK_001-2a07}
   - {type: punctuation, offset: 673, content: (, id: KR3a0014_krp_001-bkkpn79}
   - {type: variant, offset: 673, length: 0, content: '', WYG: 屬}
+  - {type: voice, offset: 673, length: 2, name: note, id: n22}
   - {type: punctuation, offset: 674, content: /, id: KR3a0014_krp_001-bkkpn80}
   - {type: variant, offset: 674, length: 1, content: 屬, WYG: ''}
   - {type: punctuation, offset: 675, content: ), id: KR3a0014_krp_001-bkkpn81}
   - {type: punctuation, offset: 680, content: (, id: KR3a0014_krp_001-bkkpn82}
   - {type: variant, offset: 680, length: 8, content: 都宮宇文化及弑逆, WYG: ''}
+  - {type: voice, offset: 680, length: 17, name: note, id: n23}
   - {type: punctuation, offset: 688, content: /, id: KR3a0014_krp_001-bkkpn83}
   - {type: punctuation, offset: 697, content: ), id: KR3a0014_krp_001-bkkpn84}
   - {type: variant, offset: 697, length: 0, content: '', WYG: 都宫宇文化及弑逆}
@@ -288,6 +311,7 @@ markers:
   - {type: punctuation, offset: 708, content: (, id: KR3a0014_krp_001-bkkpn85}
   - {type: 'kr:non-cjk', offset: 708, content: ○, id: KR3a0014_krp_001-bkkkrnonc1}
   - {type: variant, offset: 708, length: 0, content: '', WYG: 自漢末亂至隋反}
+  - {type: voice, offset: 708, length: 10, name: note, id: n24}
   - {type: variant, offset: 711, length: 7, content: 反自漢末乱至隋, WYG: ''}
   - {type: punctuation, offset: 712, content: /, id: KR3a0014_krp_001-bkkpn86}
   - {type: punctuation, offset: 718, content: ), id: KR3a0014_krp_001-bkkpn87}
@@ -298,6 +322,7 @@ markers:
   - {type: line-break, offset: 728, content: '', id: KR3a0014_SBCK_001-2a09}
   - {type: punctuation, offset: 734, content: (, id: KR3a0014_krp_001-bkkpn88}
   - {type: variant, offset: 734, length: 7, content: 道而文中子巳死, WYG: ''}
+  - {type: voice, offset: 734, length: 14, name: note, id: n25}
   - {type: punctuation, offset: 741, content: /, id: KR3a0014_krp_001-bkkpn89}
   - {type: page-break, offset: 743, content: '', id: KR3a0014_WYG_001-3a, image: WYG0696/WYG0696-0526c.png}
   - {type: punctuation, offset: 748, content: ), id: KR3a0014_krp_001-bkkpn90}
@@ -310,6 +335,7 @@ markers:
   - {type: variant, offset: 761, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 764, content: (, id: KR3a0014_krp_001-bkkpn91}
   - {type: variant, offset: 764, length: 0, content: '', WYG: 自孔子孟軻已來}
+  - {type: voice, offset: 764, length: 14, name: note, id: n26}
   - {type: variant, offset: 769, length: 1, content: 乆, WYG: 久}
   - {type: punctuation, offset: 771, content: /, id: KR3a0014_krp_001-bkkpn92}
   - {type: variant, offset: 771, length: 7, content: 自孔子孟軻巳來, WYG: ''}
@@ -321,6 +347,7 @@ markers:
   - {type: variant, offset: 786, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 801, content: (, id: KR3a0014_krp_001-bkkpn94}
   - {type: variant, offset: 801, length: 0, content: '', WYG: 秦長安隋}
+  - {type: voice, offset: 801, length: 19, name: note, id: n27}
   - {type: variant, offset: 803, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 805, content: /, id: KR3a0014_krp_001-bkkpn95}
   - {type: variant, offset: 805, length: 4, content: 秦長安隋, WYG: 陽子鄉也三才}
@@ -344,6 +371,7 @@ markers:
   - {type: line-break, offset: 835, content: '', id: KR3a0014_SBCK_001-2b02}
   - {type: punctuation, offset: 854, content: (, id: KR3a0014_krp_001-bkkpn100}
   - {type: variant, offset: 854, length: 1, content: 囯, WYG: ''}
+  - {type: voice, offset: 854, length: 37, name: note, id: n28}
   - {type: punctuation, offset: 855, content: /, id: KR3a0014_krp_001-bkkpn101}
   - {type: punctuation, offset: 856, content: ), id: KR3a0014_krp_001-bkkpn102}
   - {type: 'kr:newline', offset: 856, content: '
@@ -364,6 +392,7 @@ markers:
   - {type: variant, offset: 909, length: 1, content: 聽, WYG: 聴}
   - {type: punctuation, offset: 911, content: (, id: KR3a0014_krp_001-bkkpn106}
   - {type: variant, offset: 911, length: 0, content: '', WYG: 變民耳目使}
+  - {type: voice, offset: 911, length: 10, name: note, id: n29}
   - {type: variant, offset: 915, length: 6, content: 㒷変民耳目使, WYG: 興}
   - {type: punctuation, offset: 916, content: /, id: KR3a0014_krp_001-bkkpn107}
   - {type: punctuation, offset: 921, content: ), id: KR3a0014_krp_001-bkkpn108}
@@ -374,6 +403,7 @@ markers:
   - {type: variant, offset: 922, length: 1, content: 収, WYG: 收}
   - {type: punctuation, offset: 934, content: (, id: KR3a0014_krp_001-bkkpn109}
   - {type: variant, offset: 934, length: 2, content: 見上, WYG: ''}
+  - {type: voice, offset: 934, length: 5, name: note, id: n30}
   - {type: punctuation, offset: 936, content: /, id: KR3a0014_krp_001-bkkpn110}
   - {type: punctuation, offset: 939, content: ), id: KR3a0014_krp_001-bkkpn111}
   - {type: variant, offset: 939, length: 0, content: '', WYG: 見上}
@@ -384,6 +414,7 @@ markers:
   - {type: page-break, offset: 951, content: '', id: KR3a0014_WYG_001-3b, image: WYG0696/WYG0696-0526d.png}
   - {type: punctuation, offset: 952, content: (, id: KR3a0014_krp_001-bkkpn112}
   - {type: variant, offset: 952, length: 0, content: '', WYG: 三百篇}
+  - {type: voice, offset: 952, length: 6, name: note, id: n31}
   - {type: punctuation, offset: 955, content: /, id: KR3a0014_krp_001-bkkpn113}
   - {type: variant, offset: 955, length: 4, content: 三百篇収, WYG: 收}
   - {type: punctuation, offset: 958, content: ), id: KR3a0014_krp_001-bkkpn114}
@@ -397,6 +428,7 @@ markers:
   - {type: line-break, offset: 987, content: '', id: KR3a0014_SBCK_001-2b08}
   - {type: punctuation, offset: 991, content: (, id: KR3a0014_krp_001-bkkpn115}
   - {type: variant, offset: 991, length: 0, content: '', WYG: 告猶貢也貢}
+  - {type: voice, offset: 991, length: 10, name: note, id: n32}
   - {type: punctuation, offset: 996, content: /, id: KR3a0014_krp_001-bkkpn116}
   - {type: variant, offset: 996, length: 5, content: 告猶貢也貢, WYG: ''}
   - {type: punctuation, offset: 1001, content: ), id: KR3a0014_krp_001-bkkpn117}
@@ -406,12 +438,14 @@ markers:
   - {type: line-break, offset: 1013, content: '', id: KR3a0014_SBCK_001-2b09}
   - {type: punctuation, offset: 1014, content: (, id: KR3a0014_krp_001-bkkpn118}
   - {type: variant, offset: 1014, length: 0, content: '', WYG: 自晉惠帝永平元年至}
+  - {type: voice, offset: 1014, length: 18, name: note, id: n33}
   - {type: punctuation, offset: 1023, content: /, id: KR3a0014_krp_001-bkkpn119}
   - {type: variant, offset: 1023, length: 9, content: 自晉惠帝永平元年至, WYG: ''}
   - {type: variant, offset: 1024, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 1032, content: ), id: KR3a0014_krp_001-bkkpn120}
   - {type: punctuation, offset: 1039, content: (, id: KR3a0014_krp_001-bkkpn121}
   - {type: variant, offset: 1039, length: 1, content: 㒷, WYG: ''}
+  - {type: voice, offset: 1039, length: 3, name: note, id: n34}
   - {type: punctuation, offset: 1040, content: /, id: KR3a0014_krp_001-bkkpn122}
   - {type: punctuation, offset: 1042, content: ), id: KR3a0014_krp_001-bkkpn123}
   - {type: variant, offset: 1042, length: 0, content: '', WYG: 興}
@@ -423,6 +457,7 @@ markers:
   - {type: variant, offset: 1047, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 1051, content: (, id: KR3a0014_krp_001-bkkpn124}
   - {type: variant, offset: 1051, length: 11, content: 后天下大乱故元經起於此, WYG: ''}
+  - {type: voice, offset: 1051, length: 22, name: note, id: n35}
   - {type: punctuation, offset: 1062, content: /, id: KR3a0014_krp_001-bkkpn125}
   - {type: variant, offset: 1065, length: 1, content: 哀, WYG: 衷}
   - {type: punctuation, offset: 1073, content: ), id: KR3a0014_krp_001-bkkpn126}
@@ -433,6 +468,7 @@ markers:
   - {type: line-break, offset: 1078, content: '', id: KR3a0014_SBCK_001-2b11}
   - {type: punctuation, offset: 1087, content: (, id: KR3a0014_krp_001-bkkpn127}
   - {type: variant, offset: 1087, length: 1, content: 差, WYG: ''}
+  - {type: voice, offset: 1087, length: 3, name: note, id: n36}
   - {type: punctuation, offset: 1088, content: /, id: KR3a0014_krp_001-bkkpn128}
   - {type: punctuation, offset: 1090, content: ), id: KR3a0014_krp_001-bkkpn129}
   - {type: variant, offset: 1090, length: 0, content: '', WYG: 差}
@@ -446,6 +482,7 @@ markers:
   - {type: line-break, offset: 1099, content: '', id: KR3a0014_SBCK_001-3a01}
   - {type: punctuation, offset: 1113, content: (, id: KR3a0014_krp_001-bkkpn130}
   - {type: variant, offset: 1113, length: 1, content: 无, WYG: 晉忠猶無}
+  - {type: voice, offset: 1113, length: 5, name: note, id: n37}
   - {type: punctuation, offset: 1115, content: /, id: KR3a0014_krp_001-bkkpn131}
   - {type: variant, offset: 1115, length: 3, content: 晉惠猶, WYG: ''}
   - {type: punctuation, offset: 1118, content: ), id: KR3a0014_krp_001-bkkpn132}
@@ -457,6 +494,7 @@ markers:
   - {type: variant, offset: 1134, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 1137, content: (, id: KR3a0014_krp_001-bkkpn133}
   - {type: variant, offset: 1137, length: 0, content: '', WYG: 周平王幽王}
+  - {type: voice, offset: 1137, length: 26, name: note, id: n38}
   - {type: punctuation, offset: 1142, content: /, id: KR3a0014_krp_001-bkkpn134}
   - {type: variant, offset: 1142, length: 5, content: 周平王幽王, WYG: 㣲東遷居洛魯隠公}
   - {type: punctuation, offset: 1147, content: ), id: KR3a0014_krp_001-bkkpn135}
@@ -471,6 +509,7 @@ markers:
   - {type: page-break, offset: 1164, content: '', id: KR3a0014_WYG_001-4a, image: WYG0696/WYG0696-0527a.png}
   - {type: punctuation, offset: 1174, content: (, id: KR3a0014_krp_001-bkkpn139}
   - {type: variant, offset: 1174, length: 0, content: '', WYG: 後人}
+  - {type: voice, offset: 1174, length: 21, name: note, id: n39}
   - {type: punctuation, offset: 1176, content: /, id: KR3a0014_krp_001-bkkpn140}
   - {type: variant, offset: 1176, length: 10, content: 後人始王讓囯賢君非也, WYG: ''}
   - {type: punctuation, offset: 1178, content: ), id: KR3a0014_krp_001-bkkpn141}
@@ -488,6 +527,7 @@ markers:
   - {type: line-break, offset: 1208, content: '', id: KR3a0014_SBCK_001-3a05}
   - {type: punctuation, offset: 1221, content: (, id: KR3a0014_krp_001-bkkpn145}
   - {type: variant, offset: 1221, length: 0, content: '', WYG: 周公上}
+  - {type: voice, offset: 1221, length: 6, name: note, id: n40}
   - {type: punctuation, offset: 1224, content: /, id: KR3a0014_krp_001-bkkpn146}
   - {type: variant, offset: 1224, length: 3, content: 周公上, WYG: ''}
   - {type: punctuation, offset: 1227, content: ), id: KR3a0014_krp_001-bkkpn147}
@@ -503,6 +543,7 @@ markers:
   - {type: line-break, offset: 1252, content: '', id: KR3a0014_SBCK_001-3a07}
   - {type: punctuation, offset: 1253, content: (, id: KR3a0014_krp_001-bkkpn148}
   - {type: variant, offset: 1253, length: 1, content: 礼, WYG: 春秋無經行禮}
+  - {type: voice, offset: 1253, length: 10, name: note, id: n41}
   - {type: punctuation, offset: 1258, content: /, id: KR3a0014_krp_001-bkkpn149}
   - {type: variant, offset: 1258, length: 5, content: 春秋无經行, WYG: ''}
   - {type: punctuation, offset: 1263, content: ), id: KR3a0014_krp_001-bkkpn150}
@@ -513,6 +554,7 @@ markers:
   - {type: line-break, offset: 1278, content: '', id: KR3a0014_SBCK_001-3a08}
   - {type: punctuation, offset: 1286, content: (, id: KR3a0014_krp_001-bkkpn151}
   - {type: variant, offset: 1286, length: 0, content: '', WYG: 前聖後}
+  - {type: voice, offset: 1286, length: 6, name: note, id: n42}
   - {type: punctuation, offset: 1289, content: /, id: KR3a0014_krp_001-bkkpn152}
   - {type: variant, offset: 1289, length: 3, content: 前聖後, WYG: ''}
   - {type: punctuation, offset: 1292, content: ), id: KR3a0014_krp_001-bkkpn153}
@@ -523,6 +565,7 @@ markers:
   - {type: variant, offset: 1306, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1308, content: (, id: KR3a0014_krp_001-bkkpn154}
   - {type: variant, offset: 1308, length: 0, content: '', WYG: 孟子曰大而化之謂}
+  - {type: voice, offset: 1308, length: 16, name: note, id: n43}
   - {type: punctuation, offset: 1316, content: /, id: KR3a0014_krp_001-bkkpn155}
   - {type: variant, offset: 1316, length: 8, content: 孟子曰大而化之謂, WYG: ''}
   - {type: punctuation, offset: 1324, content: ), id: KR3a0014_krp_001-bkkpn156}
@@ -532,11 +575,13 @@ markers:
   - {type: line-break, offset: 1330, content: '', id: KR3a0014_SBCK_001-3a10}
   - {type: punctuation, offset: 1332, content: (, id: KR3a0014_krp_001-bkkpn157}
   - {type: variant, offset: 1332, length: 0, content: '', WYG: 神在}
+  - {type: voice, offset: 1332, length: 4, name: note, id: n44}
   - {type: punctuation, offset: 1334, content: /, id: KR3a0014_krp_001-bkkpn158}
   - {type: variant, offset: 1334, length: 2, content: 神在, WYG: ''}
   - {type: punctuation, offset: 1336, content: ), id: KR3a0014_krp_001-bkkpn159}
   - {type: punctuation, offset: 1346, content: (, id: KR3a0014_krp_001-bkkpn160}
   - {type: variant, offset: 1346, length: 0, content: '', WYG: 後魏}
+  - {type: voice, offset: 1346, length: 4, name: note, id: n45}
   - {type: punctuation, offset: 1348, content: /, id: KR3a0014_krp_001-bkkpn161}
   - {type: variant, offset: 1348, length: 2, content: 後魏, WYG: ''}
   - {type: punctuation, offset: 1350, content: ), id: KR3a0014_krp_001-bkkpn162}
@@ -548,6 +593,7 @@ markers:
   - {type: punctuation, offset: 1357, content: (, id: KR3a0014_krp_001-bkkpn163}
   - {type: variant, offset: 1357, length: 1, content: 无, WYG: 王凝字叔恬子之弟也為御史彈侯君集為長孫無}
   - {type: page-break, offset: 1357, content: '', id: KR3a0014_WYG_001-4b, image: WYG0696/WYG0696-0527b.png}
+  - {type: voice, offset: 1357, length: 37, name: note, id: n46}
   - {type: variant, offset: 1362, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1375, content: /, id: KR3a0014_krp_001-bkkpn164}
   - {type: variant, offset: 1375, length: 19, content: 王凝字叔恬子之弟也爲御史彈侯君集爲長孫, WYG: ''}
@@ -571,6 +617,7 @@ markers:
   - {type: variant, offset: 1420, length: 1, content: 懷, WYG: 懐}
   - {type: punctuation, offset: 1427, content: (, id: KR3a0014_krp_001-bkkpn166}
   - {type: variant, offset: 1427, length: 0, content: '', WYG: 後魏徳被黎民亦天地}
+  - {type: voice, offset: 1427, length: 17, name: note, id: n47}
   - {type: punctuation, offset: 1435, content: /, id: KR3a0014_krp_001-bkkpn167}
   - {type: variant, offset: 1435, length: 9, content: 後魏德被黎民亦天地, WYG: ''}
   - {type: variant, offset: 1439, length: 1, content: 黎, SBCK: 􅀺}
@@ -588,6 +635,7 @@ markers:
   - {type: line-break, offset: 1466, content: '', id: KR3a0014_SBCK_001-3b04}
   - {type: punctuation, offset: 1467, content: (, id: KR3a0014_krp_001-bkkpn169}
   - {type: variant, offset: 1467, length: 0, content: '', WYG: 楊素字處道煬帝時為司徒専朝政蘇䕫字伯尼善鍾律隋}
+  - {type: voice, offset: 1467, length: 56, name: note, id: n48}
   - {type: variant, offset: 1470, length: 1, content: 夔, WYG: 䕫}
   - {type: variant, offset: 1473, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 1483, length: 1, content: 爲, WYG: 為}
@@ -610,6 +658,7 @@ markers:
   - {type: line-break, offset: 1540, content: '', id: KR3a0014_SBCK_001-3b06}
   - {type: punctuation, offset: 1550, content: (, id: KR3a0014_krp_001-bkkpn175}
   - {type: variant, offset: 1550, length: 0, content: '', WYG: 上正下曰政}
+  - {type: voice, offset: 1550, length: 10, name: note, id: n49}
   - {type: punctuation, offset: 1555, content: /, id: KR3a0014_krp_001-bkkpn176}
   - {type: variant, offset: 1555, length: 5, content: 上正下曰政, WYG: ''}
   - {type: punctuation, offset: 1560, content: ), id: KR3a0014_krp_001-bkkpn177}
@@ -618,6 +667,7 @@ markers:
       ', id: KR3a0014_krp_001-bkkkrnewl67}
   - {type: line-break, offset: 1567, content: '', id: KR3a0014_SBCK_001-3b07}
   - {type: punctuation, offset: 1572, content: (, id: KR3a0014_krp_001-bkkpn178}
+  - {type: voice, offset: 1572, length: 8, name: note, id: n50}
   - {type: variant, offset: 1573, length: 2, content: 德爲, WYG: 音為聲知徳為}
   - {type: punctuation, offset: 1576, content: /, id: KR3a0014_krp_001-bkkpn179}
   - {type: variant, offset: 1576, length: 5, content: 知音爲声德, WYG: 徳}
@@ -628,6 +678,7 @@ markers:
   - {type: line-break, offset: 1592, content: '', id: KR3a0014_SBCK_001-3b08}
   - {type: punctuation, offset: 1593, content: (, id: KR3a0014_krp_001-bkkpn181}
   - {type: variant, offset: 1593, length: 0, content: '', WYG: 修詞為文}
+  - {type: voice, offset: 1593, length: 8, name: note, id: n51}
   - {type: variant, offset: 1595, length: 1, content: 爲, WYG: 為}
   - {type: page-break, offset: 1595, content: '', id: KR3a0014_WYG_001-5a, image: WYG0696/WYG0696-0527c.png}
   - {type: punctuation, offset: 1597, content: /, id: KR3a0014_krp_001-bkkpn182}
@@ -639,6 +690,7 @@ markers:
   - {type: line-break, offset: 1617, content: '', id: KR3a0014_SBCK_001-3b09}
   - {type: punctuation, offset: 1625, content: (, id: KR3a0014_krp_001-bkkpn184}
   - {type: variant, offset: 1625, length: 1, content: 政, WYG: ''}
+  - {type: voice, offset: 1625, length: 3, name: note, id: n52}
   - {type: punctuation, offset: 1626, content: /, id: KR3a0014_krp_001-bkkpn185}
   - {type: punctuation, offset: 1628, content: ), id: KR3a0014_krp_001-bkkpn186}
   - {type: variant, offset: 1628, length: 0, content: '', WYG: 政}
@@ -647,12 +699,14 @@ markers:
       ', id: KR3a0014_krp_001-bkkkrnewl70}
   - {type: line-break, offset: 1638, content: '', id: KR3a0014_SBCK_001-3b10}
   - {type: punctuation, offset: 1641, content: (, id: KR3a0014_krp_001-bkkpn187}
+  - {type: voice, offset: 1641, length: 8, name: note, id: n53}
   - {type: variant, offset: 1642, length: 0, content: '', WYG: 正人不知}
   - {type: punctuation, offset: 1645, content: /, id: KR3a0014_krp_001-bkkpn188}
   - {type: variant, offset: 1645, length: 4, content: 知正人不, WYG: ''}
   - {type: punctuation, offset: 1649, content: ), id: KR3a0014_krp_001-bkkpn189}
   - {type: punctuation, offset: 1661, content: (, id: KR3a0014_krp_001-bkkpn190}
   - {type: variant, offset: 1661, length: 0, content: '', WYG: 知文音}
+  - {type: voice, offset: 1661, length: 7, name: note, id: n54}
   - {type: punctuation, offset: 1664, content: /, id: KR3a0014_krp_001-bkkpn191}
   - {type: variant, offset: 1664, length: 4, content: 知文音德, WYG: 徳}
   - {type: punctuation, offset: 1667, content: ), id: KR3a0014_krp_001-bkkpn192}
@@ -663,6 +717,7 @@ markers:
   - {type: punctuation, offset: 1667, content: (, id: KR3a0014_krp_001-bkkpn193}
   - {type: punctuation, offset: 1668, content: ), id: KR3a0014_krp_001-bkkpn194}
   - {type: punctuation, offset: 1680, content: (, id: KR3a0014_krp_001-bkkpn195}
+  - {type: voice, offset: 1680, length: 7, name: note, id: n55}
   - {type: variant, offset: 1681, length: 3, content: 實道知, WYG: ''}
   - {type: punctuation, offset: 1683, content: /, id: KR3a0014_krp_001-bkkpn196}
   - {type: punctuation, offset: 1687, content: ), id: KR3a0014_krp_001-bkkpn197}
@@ -677,6 +732,7 @@ markers:
   - {type: line-break, offset: 1691, content: '', id: KR3a0014_SBCK_001-4a01}
   - {type: punctuation, offset: 1699, content: (, id: KR3a0014_krp_001-bkkpn198}
   - {type: variant, offset: 1699, length: 1, content: 䘮, WYG: 禮壊樂崩文喪}
+  - {type: voice, offset: 1699, length: 10, name: note, id: n56}
   - {type: punctuation, offset: 1704, content: /, id: KR3a0014_krp_001-bkkpn199}
   - {type: variant, offset: 1704, length: 5, content: 礼壊樂崩文, WYG: ''}
   - {type: punctuation, offset: 1709, content: ), id: KR3a0014_krp_001-bkkpn200}
@@ -686,6 +742,7 @@ markers:
   - {type: line-break, offset: 1717, content: '', id: KR3a0014_SBCK_001-4a02}
   - {type: punctuation, offset: 1719, content: (, id: KR3a0014_krp_001-bkkpn201}
   - {type: variant, offset: 1719, length: 10, content: 蕩无綱紀文章援于眷反, WYG: ''}
+  - {type: voice, offset: 1719, length: 22, name: note, id: n57}
   - {type: 'kr:non-cjk', offset: 1725, content: ○, id: KR3a0014_krp_001-bkkkrnonc2}
   - {type: punctuation, offset: 1729, content: /, id: KR3a0014_krp_001-bkkpn202}
   - {type: punctuation, offset: 1741, content: ), id: KR3a0014_krp_001-bkkpn203}
@@ -693,6 +750,7 @@ markers:
   - {type: variant, offset: 1745, length: 1, content: 襟, SBCK: 􅁭}
   - {type: punctuation, offset: 1747, content: (, id: KR3a0014_krp_001-bkkpn204}
   - {type: variant, offset: 1747, length: 0, content: '', WYG: 哀隋}
+  - {type: voice, offset: 1747, length: 8, name: note, id: n58}
   - {type: punctuation, offset: 1749, content: /, id: KR3a0014_krp_001-bkkpn205}
   - {type: variant, offset: 1749, length: 1, content: 哀, WYG: 霑}
   - {type: variant, offset: 1750, length: 1, content: 隋, WYG: 知}
@@ -707,11 +765,13 @@ markers:
   - {type: punctuation, offset: 1755, content: ), id: KR3a0014_krp_001-bkkpn209}
   - {type: punctuation, offset: 1762, content: (, id: KR3a0014_krp_001-bkkpn210}
   - {type: variant, offset: 1762, length: 0, content: '', WYG: 聖人}
+  - {type: voice, offset: 1762, length: 4, name: note, id: n59}
   - {type: punctuation, offset: 1764, content: /, id: KR3a0014_krp_001-bkkpn211}
   - {type: variant, offset: 1764, length: 2, content: 聖人, WYG: ''}
   - {type: punctuation, offset: 1766, content: ), id: KR3a0014_krp_001-bkkpn212}
   - {type: punctuation, offset: 1771, content: (, id: KR3a0014_krp_001-bkkpn213}
   - {type: variant, offset: 1771, length: 0, content: '', WYG: 賢人}
+  - {type: voice, offset: 1771, length: 4, name: note, id: n60}
   - {type: punctuation, offset: 1773, content: /, id: KR3a0014_krp_001-bkkpn214}
   - {type: variant, offset: 1773, length: 2, content: 賢人, WYG: ''}
   - {type: punctuation, offset: 1775, content: ), id: KR3a0014_krp_001-bkkpn215}
@@ -721,11 +781,13 @@ markers:
   - {type: line-break, offset: 1777, content: '', id: KR3a0014_SBCK_001-4a04}
   - {type: punctuation, offset: 1780, content: (, id: KR3a0014_krp_001-bkkpn216}
   - {type: variant, offset: 1780, length: 2, content: 強仁, WYG: ''}
+  - {type: voice, offset: 1780, length: 4, name: note, id: n61}
   - {type: punctuation, offset: 1782, content: /, id: KR3a0014_krp_001-bkkpn217}
   - {type: punctuation, offset: 1784, content: ), id: KR3a0014_krp_001-bkkpn218}
   - {type: variant, offset: 1784, length: 0, content: '', WYG: 强仁}
   - {type: punctuation, offset: 1794, content: (, id: KR3a0014_krp_001-bkkpn219}
   - {type: variant, offset: 1794, length: 5, content: 中人之徳異, WYG: ''}
+  - {type: voice, offset: 1794, length: 11, name: note, id: n62}
   - {type: punctuation, offset: 1799, content: /, id: KR3a0014_krp_001-bkkpn220}
   - {type: punctuation, offset: 1805, content: ), id: KR3a0014_krp_001-bkkpn221}
   - {type: 'kr:newline', offset: 1805, content: '
@@ -735,6 +797,7 @@ markers:
   - {type: variant, offset: 1805, length: 0, content: '', WYG: 中人之徳異}
   - {type: punctuation, offset: 1807, content: (, id: KR3a0014_krp_001-bkkpn222}
   - {type: variant, offset: 1807, length: 0, content: '', WYG: 門人}
+  - {type: voice, offset: 1807, length: 4, name: note, id: n63}
   - {type: punctuation, offset: 1809, content: /, id: KR3a0014_krp_001-bkkpn223}
   - {type: variant, offset: 1809, length: 2, content: 門人, WYG: ''}
   - {type: punctuation, offset: 1811, content: ), id: KR3a0014_krp_001-bkkpn224}
@@ -742,6 +805,7 @@ markers:
   - {type: variant, offset: 1814, length: 1, content: 桓, SBCK: 􅁊}
   - {type: punctuation, offset: 1818, content: (, id: KR3a0014_krp_001-bkkpn225}
   - {type: variant, offset: 1818, length: 0, content: '', WYG: 續書有桓榮之命篇榮}
+  - {type: voice, offset: 1818, length: 18, name: note, id: n64}
   - {type: variant, offset: 1826, length: 1, content: 傳, SBCK: 􅀓}
   - {type: variant, offset: 1826, length: 10, content: 傳讀書有相榮之命篇榮, WYG: 𫝊}
   - {type: punctuation, offset: 1827, content: /, id: KR3a0014_krp_001-bkkpn226}
@@ -752,11 +816,13 @@ markers:
   - {type: line-break, offset: 1838, content: '', id: KR3a0014_SBCK_001-4a06}
   - {type: punctuation, offset: 1844, content: (, id: KR3a0014_krp_001-bkkpn228}
   - {type: variant, offset: 1844, length: 0, content: '', WYG: 光武}
+  - {type: voice, offset: 1844, length: 4, name: note, id: n65}
   - {type: punctuation, offset: 1846, content: /, id: KR3a0014_krp_001-bkkpn229}
   - {type: variant, offset: 1846, length: 2, content: 光武, WYG: ''}
   - {type: punctuation, offset: 1848, content: ), id: KR3a0014_krp_001-bkkpn230}
   - {type: punctuation, offset: 1859, content: (, id: KR3a0014_krp_001-bkkpn231}
   - {type: variant, offset: 1859, length: 0, content: '', WYG: 初}
+  - {type: voice, offset: 1859, length: 39, name: note, id: n66}
   - {type: punctuation, offset: 1860, content: /, id: KR3a0014_krp_001-bkkpn232}
   - {type: variant, offset: 1860, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 1860, length: 1, content: 𥘉, WYG: 武立東海王强為太子强讓其弟陽陽立是謂}
@@ -774,6 +840,7 @@ markers:
   - {type: variant, offset: 1900, length: 1, content: 玄, SBCK: 􅀇}
   - {type: variant, offset: 1900, length: 1, content: 玄, WYG: 𤣥未}
   - {type: punctuation, offset: 1901, content: (, id: KR3a0014_krp_001-bkkpn237}
+  - {type: voice, offset: 1901, length: 2, name: note, id: n67}
   - {type: punctuation, offset: 1902, content: /, id: KR3a0014_krp_001-bkkpn238}
   - {type: variant, offset: 1902, length: 1, content: 未, WYG: ''}
   - {type: punctuation, offset: 1903, content: ), id: KR3a0014_krp_001-bkkpn239}
@@ -783,6 +850,7 @@ markers:
   - {type: line-break, offset: 1904, content: '', id: KR3a0014_SBCK_001-4a08}
   - {type: punctuation, offset: 1911, content: (, id: KR3a0014_krp_001-bkkpn240}
   - {type: variant, offset: 1911, length: 11, content: 有北斉志師玄撮其要為録, WYG: ''}
+  - {type: voice, offset: 1911, length: 23, name: note, id: n68}
   - {type: variant, offset: 1916, length: 1, content: 玄, SBCK: 􅀇}
   - {type: punctuation, offset: 1922, content: /, id: KR3a0014_krp_001-bkkpn241}
   - {type: variant, offset: 1930, length: 1, content: 斉, WYG: 齊}
@@ -794,6 +862,7 @@ markers:
   - {type: line-break, offset: 1937, content: '', id: KR3a0014_SBCK_001-4a09}
   - {type: punctuation, offset: 1940, content: (, id: KR3a0014_krp_001-bkkpn243}
   - {type: variant, offset: 1940, length: 0, content: '', WYG: 勿苟且表}
+  - {type: voice, offset: 1940, length: 8, name: note, id: n69}
   - {type: punctuation, offset: 1944, content: /, id: KR3a0014_krp_001-bkkpn244}
   - {type: variant, offset: 1944, length: 4, content: 勿苟且表, WYG: ''}
   - {type: punctuation, offset: 1948, content: ), id: KR3a0014_krp_001-bkkpn245}
@@ -804,6 +873,7 @@ markers:
   - {type: variant, offset: 1967, length: 1, content: 荅, WYG: 答}
   - {type: variant, offset: 1976, length: 7, content: 德經淮南王樑瀘, WYG: 徳}
   - {type: punctuation, offset: 1977, content: (, id: KR3a0014_krp_001-bkkpn246}
+  - {type: voice, offset: 1977, length: 69, name: note, id: n70}
   - {type: punctuation, offset: 1983, content: /, id: KR3a0014_krp_001-bkkpn247}
   - {type: punctuation, offset: 1989, content: ), id: KR3a0014_krp_001-bkkpn248}
   - {type: 'kr:newline', offset: 1989, content: '
@@ -833,6 +903,7 @@ markers:
   - {type: variant, offset: 2058, length: 1, content: 勸, SBCK: 􅂆}
   - {type: punctuation, offset: 2059, content: (, id: KR3a0014_krp_001-bkkpn255}
   - {type: variant, offset: 2059, length: 2, content: 勉也, WYG: ''}
+  - {type: voice, offset: 2059, length: 5, name: note, id: n71}
   - {type: punctuation, offset: 2061, content: /, id: KR3a0014_krp_001-bkkpn256}
   - {type: page-break, offset: 2061, content: '', id: KR3a0014_WYG_001-6a, image: WYG0696/WYG0696-0528a.png}
   - {type: variant, offset: 2062, length: 1, content: 勸, SBCK: 􅂆}
@@ -844,21 +915,25 @@ markers:
   - {type: line-break, offset: 2066, content: '', id: KR3a0014_SBCK_001-4b02}
   - {type: punctuation, offset: 2069, content: (, id: KR3a0014_krp_001-bkkpn258}
   - {type: variant, offset: 2069, length: 0, content: '', WYG: 門人}
+  - {type: voice, offset: 2069, length: 4, name: note, id: n72}
   - {type: punctuation, offset: 2071, content: /, id: KR3a0014_krp_001-bkkpn259}
   - {type: variant, offset: 2071, length: 2, content: 門人, WYG: ''}
   - {type: punctuation, offset: 2073, content: ), id: KR3a0014_krp_001-bkkpn260}
   - {type: punctuation, offset: 2078, content: (, id: KR3a0014_krp_001-bkkpn261}
   - {type: variant, offset: 2078, length: 1, content: 莭, WYG: ''}
+  - {type: voice, offset: 2078, length: 3, name: note, id: n73}
   - {type: punctuation, offset: 2079, content: /, id: KR3a0014_krp_001-bkkpn262}
   - {type: punctuation, offset: 2081, content: ), id: KR3a0014_krp_001-bkkpn263}
   - {type: variant, offset: 2081, length: 0, content: '', WYG: 節}
   - {type: punctuation, offset: 2084, content: (, id: KR3a0014_krp_001-bkkpn264}
   - {type: variant, offset: 2084, length: 1, content: 密, WYG: ''}
+  - {type: voice, offset: 2084, length: 3, name: note, id: n74}
   - {type: punctuation, offset: 2085, content: /, id: KR3a0014_krp_001-bkkpn265}
   - {type: punctuation, offset: 2087, content: ), id: KR3a0014_krp_001-bkkpn266}
   - {type: variant, offset: 2087, length: 0, content: '', WYG: 宻}
   - {type: punctuation, offset: 2089, content: (, id: KR3a0014_krp_001-bkkpn267}
   - {type: variant, offset: 2089, length: 0, content: '', WYG: 言行}
+  - {type: voice, offset: 2089, length: 7, name: note, id: n75}
   - {type: punctuation, offset: 2091, content: /, id: KR3a0014_krp_001-bkkpn268}
   - {type: variant, offset: 2091, length: 3, content: 言行也, WYG: ''}
   - {type: punctuation, offset: 2093, content: ), id: KR3a0014_krp_001-bkkpn269}
@@ -872,6 +947,7 @@ markers:
   - {type: variant, offset: 2096, length: 0, content: '', WYG: 也}
   - {type: punctuation, offset: 2107, content: (, id: KR3a0014_krp_001-bkkpn273}
   - {type: variant, offset: 2107, length: 0, content: '', WYG: 變變於道也孔子曰三}
+  - {type: voice, offset: 2107, length: 29, name: note, id: n76}
   - {type: variant, offset: 2108, length: 1, content: 有, WYG: 冇}
   - {type: punctuation, offset: 2116, content: /, id: KR3a0014_krp_001-bkkpn274}
   - {type: variant, offset: 2116, length: 14, content: 変変於道也孔子曰三故曰王道明, WYG: ''}
@@ -888,6 +964,7 @@ markers:
   - {type: variant, offset: 2144, length: 1, content: 治, WYG: 洽}
   - {type: punctuation, offset: 2146, content: (, id: KR3a0014_krp_001-bkkpn279}
   - {type: variant, offset: 2146, length: 0, content: '', WYG: 樂仁之}
+  - {type: voice, offset: 2146, length: 5, name: note, id: n77}
   - {type: punctuation, offset: 2148, content: /, id: KR3a0014_krp_001-bkkpn280}
   - {type: variant, offset: 2148, length: 3, content: 栾仁之, WYG: ''}
   - {type: punctuation, offset: 2151, content: ), id: KR3a0014_krp_001-bkkpn281}
@@ -898,6 +975,7 @@ markers:
   - {type: punctuation, offset: 2157, content: (, id: KR3a0014_krp_001-bkkpn282}
   - {type: variant, offset: 2157, length: 1, content: 傳, SBCK: 􅀓}
   - {type: variant, offset: 2157, length: 3, content: 傳未見, WYG: ''}
+  - {type: voice, offset: 2157, length: 7, name: note, id: n78}
   - {type: punctuation, offset: 2160, content: /, id: KR3a0014_krp_001-bkkpn283}
   - {type: punctuation, offset: 2164, content: ), id: KR3a0014_krp_001-bkkpn284}
   - {type: variant, offset: 2164, length: 0, content: '', WYG: 𫝊未見}
@@ -907,6 +985,7 @@ markers:
   - {type: line-break, offset: 2178, content: '', id: KR3a0014_SBCK_001-4b06}
   - {type: punctuation, offset: 2190, content: (, id: KR3a0014_krp_001-bkkpn285}
   - {type: variant, offset: 2190, length: 9, content: 変九而成見王化之然, WYG: ''}
+  - {type: voice, offset: 2190, length: 19, name: note, id: n79}
   - {type: punctuation, offset: 2199, content: /, id: KR3a0014_krp_001-bkkpn286}
   - {type: punctuation, offset: 2209, content: ), id: KR3a0014_krp_001-bkkpn287}
   - {type: 'kr:newline', offset: 2209, content: '
@@ -924,6 +1003,7 @@ markers:
   - {type: variant, offset: 2234, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2238, content: (, id: KR3a0014_krp_001-bkkpn288}
   - {type: variant, offset: 2238, length: 0, content: '', WYG: 引古}
+  - {type: voice, offset: 2238, length: 4, name: note, id: n80}
   - {type: punctuation, offset: 2240, content: /, id: KR3a0014_krp_001-bkkpn289}
   - {type: variant, offset: 2240, length: 2, content: 引古, WYG: ''}
   - {type: punctuation, offset: 2242, content: ), id: KR3a0014_krp_001-bkkpn290}
@@ -933,6 +1013,7 @@ markers:
   - {type: line-break, offset: 2251, content: '', id: KR3a0014_SBCK_001-4b09}
   - {type: punctuation, offset: 2251, content: (, id: KR3a0014_krp_001-bkkpn291}
   - {type: variant, offset: 2251, length: 0, content: '', WYG: 費費耗國用也三代已前無此禮齊桓公欲封太山禪梁甫管仲}
+  - {type: voice, offset: 2251, length: 53, name: note, id: n81}
   - {type: variant, offset: 2256, length: 1, content: 湏, WYG: 須}
   - {type: page-break, offset: 2256, content: '', id: KR3a0014_WYG_001-6b, image: WYG0696/WYG0696-0528b.png}
   - {type: variant, offset: 2274, length: 1, content: 礼, WYG: 禮}
@@ -949,6 +1030,7 @@ markers:
   - {type: variant, offset: 2304, length: 0, content: '', WYG: 實}
   - {type: punctuation, offset: 2316, content: (, id: KR3a0014_krp_001-bkkpn297}
   - {type: variant, offset: 2316, length: 0, content: '', WYG: 始皇東巡上太山}
+  - {type: voice, offset: 2316, length: 73, name: note, id: n82}
   - {type: punctuation, offset: 2323, content: /, id: KR3a0014_krp_001-bkkpn298}
   - {type: variant, offset: 2323, length: 4, content: 始皇東廵, WYG: 甫以頌秦徳漢武帝用齊人公孫卿言封禪登仙遂升中岳又}
   - {type: variant, offset: 2328, length: 2, content: 太山, WYG: ''}
@@ -977,6 +1059,7 @@ markers:
   - {type: variant, offset: 2389, length: 0, content: '', WYG: 致誠之本}
   - {type: punctuation, offset: 2403, content: (, id: KR3a0014_krp_001-bkkpn306}
   - {type: variant, offset: 2403, length: 0, content: '', WYG: 家國}
+  - {type: voice, offset: 2403, length: 4, name: note, id: n83}
   - {type: punctuation, offset: 2405, content: /, id: KR3a0014_krp_001-bkkpn307}
   - {type: variant, offset: 2405, length: 2, content: 家国, WYG: ''}
   - {type: punctuation, offset: 2407, content: ), id: KR3a0014_krp_001-bkkpn308}
@@ -986,6 +1069,7 @@ markers:
   - {type: line-break, offset: 2407, content: '', id: KR3a0014_SBCK_001-5a02}
   - {type: punctuation, offset: 2417, content: (, id: KR3a0014_krp_001-bkkpn309}
   - {type: variant, offset: 2417, length: 0, content: '', WYG: 無幸免則}
+  - {type: voice, offset: 2417, length: 7, name: note, id: n84}
   - {type: punctuation, offset: 2420, content: /, id: KR3a0014_krp_001-bkkpn310}
   - {type: variant, offset: 2420, length: 4, content: 无幸免則, WYG: ''}
   - {type: punctuation, offset: 2424, content: ), id: KR3a0014_krp_001-bkkpn311}
@@ -996,11 +1080,13 @@ markers:
   - {type: line-break, offset: 2431, content: '', id: KR3a0014_SBCK_001-5a03}
   - {type: punctuation, offset: 2432, content: (, id: KR3a0014_krp_001-bkkpn312}
   - {type: variant, offset: 2432, length: 0, content: '', WYG: 既富侈則}
+  - {type: voice, offset: 2432, length: 7, name: note, id: n85}
   - {type: punctuation, offset: 2435, content: /, id: KR3a0014_krp_001-bkkpn313}
   - {type: variant, offset: 2435, length: 4, content: 旣冨侈則, WYG: ''}
   - {type: punctuation, offset: 2439, content: ), id: KR3a0014_krp_001-bkkpn314}
   - {type: punctuation, offset: 2453, content: (, id: KR3a0014_krp_001-bkkpn315}
   - {type: variant, offset: 2453, length: 0, content: '', WYG: 相}
+  - {type: voice, offset: 2453, length: 2, name: note, id: n86}
   - {type: punctuation, offset: 2454, content: /, id: KR3a0014_krp_001-bkkpn316}
   - {type: variant, offset: 2454, length: 1, content: 相, WYG: ''}
   - {type: punctuation, offset: 2455, content: ), id: KR3a0014_krp_001-bkkpn317}
@@ -1011,6 +1097,7 @@ markers:
   - {type: variant, offset: 2460, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 2472, content: (, id: KR3a0014_krp_001-bkkpn318}
   - {type: variant, offset: 2472, length: 0, content: '', WYG: 杜如晦字克}
+  - {type: voice, offset: 2472, length: 20, name: note, id: n87}
   - {type: punctuation, offset: 2477, content: /, id: KR3a0014_krp_001-bkkpn319}
   - {type: variant, offset: 2477, length: 1, content: 杜, WYG: 朝}
   - {type: variant, offset: 2478, length: 1, content: 如, WYG: 政}
@@ -1028,6 +1115,7 @@ markers:
   - {type: punctuation, offset: 2492, content: ), id: KR3a0014_krp_001-bkkpn323}
   - {type: punctuation, offset: 2504, content: (, id: KR3a0014_krp_001-bkkpn324}
   - {type: variant, offset: 2504, length: 2, content: 太過, WYG: ''}
+  - {type: voice, offset: 2504, length: 5, name: note, id: n88}
   - {type: punctuation, offset: 2506, content: /, id: KR3a0014_krp_001-bkkpn325}
   - {type: punctuation, offset: 2509, content: ), id: KR3a0014_krp_001-bkkpn326}
   - {type: variant, offset: 2509, length: 0, content: '', WYG: 太過}
@@ -1053,6 +1141,7 @@ markers:
   - {type: line-break, offset: 2551, content: '', id: KR3a0014_SBCK_001-5a08}
   - {type: punctuation, offset: 2565, content: (, id: KR3a0014_krp_001-bkkpn327}
   - {type: variant, offset: 2565, length: 8, content: 太宗治平嵗断死罪, WYG: ''}
+  - {type: voice, offset: 2565, length: 45, name: note, id: n89}
   - {type: punctuation, offset: 2573, content: /, id: KR3a0014_krp_001-bkkpn328}
   - {type: variant, offset: 2574, length: 1, content: 无, WYG: 元}
   - {type: punctuation, offset: 2581, content: ), id: KR3a0014_krp_001-bkkpn329}
@@ -1073,6 +1162,7 @@ markers:
   - {type: line-break, offset: 2618, content: '', id: KR3a0014_SBCK_001-5a10}
   - {type: punctuation, offset: 2623, content: (, id: KR3a0014_krp_001-bkkpn333}
   - {type: variant, offset: 2623, length: 2, content: 夏皃, WYG: ''}
+  - {type: voice, offset: 2623, length: 4, name: note, id: n90}
   - {type: punctuation, offset: 2625, content: /, id: KR3a0014_krp_001-bkkpn334}
   - {type: punctuation, offset: 2627, content: ), id: KR3a0014_krp_001-bkkpn335}
   - {type: variant, offset: 2627, length: 0, content: '', WYG: 憂貌}
@@ -1083,6 +1173,7 @@ markers:
   - {type: line-break, offset: 2640, content: '', id: KR3a0014_SBCK_001-5a11}
   - {type: punctuation, offset: 2641, content: (, id: KR3a0014_krp_001-bkkpn336}
   - {type: variant, offset: 2641, length: 7, content: 宗所以恍忽憂也, WYG: ''}
+  - {type: voice, offset: 2641, length: 15, name: note, id: n91}
   - {type: variant, offset: 2646, length: 1, content: 憂, SBCK: 􅁨}
   - {type: punctuation, offset: 2648, content: /, id: KR3a0014_krp_001-bkkpn337}
   - {type: punctuation, offset: 2656, content: ), id: KR3a0014_krp_001-bkkpn338}
@@ -1098,6 +1189,7 @@ markers:
   - {type: line-break, offset: 2669, content: '', id: KR3a0014_SBCK_001-5b01}
   - {type: punctuation, offset: 2675, content: (, id: KR3a0014_krp_001-bkkpn339}
   - {type: variant, offset: 2675, length: 5, content: 五㪯成數欤, WYG: ''}
+  - {type: voice, offset: 2675, length: 11, name: note, id: n92}
   - {type: punctuation, offset: 2680, content: /, id: KR3a0014_krp_001-bkkpn340}
   - {type: variant, offset: 2683, length: 1, content: 岳, WYG: 嶽}
   - {type: punctuation, offset: 2686, content: ), id: KR3a0014_krp_001-bkkpn341}
@@ -1109,11 +1201,13 @@ markers:
   - {type: line-break, offset: 2697, content: '', id: KR3a0014_SBCK_001-5b02}
   - {type: punctuation, offset: 2700, content: (, id: KR3a0014_krp_001-bkkpn342}
   - {type: variant, offset: 2700, length: 0, content: '', WYG: 簡則}
+  - {type: voice, offset: 2700, length: 4, name: note, id: n93}
   - {type: punctuation, offset: 2702, content: /, id: KR3a0014_krp_001-bkkpn343}
   - {type: variant, offset: 2702, length: 2, content: 簡則, WYG: ''}
   - {type: punctuation, offset: 2704, content: ), id: KR3a0014_krp_001-bkkpn344}
   - {type: punctuation, offset: 2718, content: (, id: KR3a0014_krp_001-bkkpn345}
   - {type: variant, offset: 2718, length: 0, content: '', WYG: 黍}
+  - {type: voice, offset: 2718, length: 9, name: note, id: n94}
   - {type: punctuation, offset: 2719, content: /, id: KR3a0014_krp_001-bkkpn346}
   - {type: variant, offset: 2719, length: 1, content: 黍, SBCK: 􅁰}
   - {type: variant, offset: 2719, length: 1, content: 黍, WYG: 列於國風}
@@ -1129,12 +1223,14 @@ markers:
   - {type: page-break, offset: 2727, content: '', id: KR3a0014_WYG_001-7b, image: WYG0696/WYG0696-0528d.png}
   - {type: punctuation, offset: 2730, content: (, id: KR3a0014_krp_001-bkkpn351}
   - {type: variant, offset: 2730, length: 0, content: '', WYG: 居音姬禮}
+  - {type: voice, offset: 2730, length: 8, name: note, id: n95}
   - {type: punctuation, offset: 2734, content: /, id: KR3a0014_krp_001-bkkpn352}
   - {type: variant, offset: 2734, length: 4, content: 居音姬礼, WYG: ''}
   - {type: variant, offset: 2736, length: 1, content: 姬, SBCK: 􅁎}
   - {type: punctuation, offset: 2738, content: ), id: KR3a0014_krp_001-bkkpn353}
   - {type: punctuation, offset: 2743, content: (, id: KR3a0014_krp_001-bkkpn354}
   - {type: variant, offset: 2743, length: 0, content: '', WYG: 幽王惑褒姒廢}
+  - {type: voice, offset: 2743, length: 15, name: note, id: n96}
   - {type: variant, offset: 2747, length: 1, content: 試, WYG: 弑}
   - {type: punctuation, offset: 2749, content: /, id: KR3a0014_krp_001-bkkpn355}
   - {type: variant, offset: 2749, length: 7, content: 幽王惑褒似廢微, WYG: ''}
@@ -1151,6 +1247,7 @@ markers:
   - {type: punctuation, offset: 2770, content: (, id: KR3a0014_krp_001-bkkpn360}
   - {type: variant, offset: 2770, length: 1, content: 黍, SBCK: 􅁰}
   - {type: variant, offset: 2770, length: 0, content: '', WYG: 王國十篇}
+  - {type: voice, offset: 2770, length: 8, name: note, id: n97}
   - {type: punctuation, offset: 2774, content: /, id: KR3a0014_krp_001-bkkpn361}
   - {type: variant, offset: 2774, length: 4, content: 王囯十篇, WYG: ''}
   - {type: punctuation, offset: 2778, content: ), id: KR3a0014_krp_001-bkkpn362}
@@ -1160,6 +1257,7 @@ markers:
   - {type: line-break, offset: 2781, content: '', id: KR3a0014_SBCK_001-5b05}
   - {type: punctuation, offset: 2793, content: (, id: KR3a0014_krp_001-bkkpn363}
   - {type: variant, offset: 2793, length: 1, content: 礼, WYG: 治臻皇極則五行各敘故禮}
+  - {type: voice, offset: 2793, length: 19, name: note, id: n98}
   - {type: punctuation, offset: 2802, content: /, id: KR3a0014_krp_001-bkkpn364}
   - {type: variant, offset: 2802, length: 10, content: 治臻皇極則五行各叙故, WYG: ''}
   - {type: punctuation, offset: 2812, content: ), id: KR3a0014_krp_001-bkkpn365}
@@ -1170,6 +1268,7 @@ markers:
   - {type: variant, offset: 2814, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2824, content: (, id: KR3a0014_krp_001-bkkpn366}
   - {type: variant, offset: 2824, length: 9, content: 在沼藪故樂形仁声也, WYG: ''}
+  - {type: voice, offset: 2824, length: 18, name: note, id: n99}
   - {type: punctuation, offset: 2833, content: /, id: KR3a0014_krp_001-bkkpn367}
   - {type: variant, offset: 2838, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 2842, content: ), id: KR3a0014_krp_001-bkkpn368}
@@ -1180,6 +1279,7 @@ markers:
   - {type: line-break, offset: 2843, content: '', id: KR3a0014_SBCK_001-5b07}
   - {type: punctuation, offset: 2848, content: (, id: KR3a0014_krp_001-bkkpn369}
   - {type: variant, offset: 2848, length: 0, content: '', WYG: 漢已後郡國}
+  - {type: voice, offset: 2848, length: 9, name: note, id: n100}
   - {type: punctuation, offset: 2852, content: /, id: KR3a0014_krp_001-bkkpn370}
   - {type: variant, offset: 2852, length: 5, content: 漢巳後郡囯, WYG: ''}
   - {type: punctuation, offset: 2857, content: ), id: KR3a0014_krp_001-bkkpn371}
@@ -1189,6 +1289,7 @@ markers:
   - {type: line-break, offset: 2868, content: '', id: KR3a0014_SBCK_001-5b08}
   - {type: punctuation, offset: 2885, content: (, id: KR3a0014_krp_001-bkkpn372}
   - {type: variant, offset: 2885, length: 0, content: '', WYG: 春秋行法}
+  - {type: voice, offset: 2885, length: 14, name: note, id: n101}
   - {type: punctuation, offset: 2889, content: /, id: KR3a0014_krp_001-bkkpn373}
   - {type: variant, offset: 2889, length: 4, content: 春秋行法, WYG: 序人倫}
   - {type: punctuation, offset: 2893, content: ), id: KR3a0014_krp_001-bkkpn374}
@@ -1203,6 +1304,7 @@ markers:
   - {type: variant, offset: 2904, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 2910, content: (, id: KR3a0014_krp_001-bkkpn378}
   - {type: variant, offset: 2910, length: 0, content: '', WYG: 言無}
+  - {type: voice, offset: 2910, length: 3, name: note, id: n102}
   - {type: punctuation, offset: 2911, content: /, id: KR3a0014_krp_001-bkkpn379}
   - {type: variant, offset: 2911, length: 2, content: 言无, WYG: ''}
   - {type: punctuation, offset: 2913, content: ), id: KR3a0014_krp_001-bkkpn380}
@@ -1212,6 +1314,7 @@ markers:
   - {type: line-break, offset: 2918, content: '', id: KR3a0014_SBCK_001-5b10}
   - {type: punctuation, offset: 2925, content: (, id: KR3a0014_krp_001-bkkpn381}
   - {type: variant, offset: 2925, length: 5, content: 謂文中子也, WYG: ''}
+  - {type: voice, offset: 2925, length: 11, name: note, id: n103}
   - {type: punctuation, offset: 2930, content: /, id: KR3a0014_krp_001-bkkpn382}
   - {type: punctuation, offset: 2936, content: ), id: KR3a0014_krp_001-bkkpn383}
   - {type: variant, offset: 2936, length: 0, content: '', WYG: 謂文中子也}
@@ -1221,6 +1324,7 @@ markers:
   - {type: line-break, offset: 2944, content: '', id: KR3a0014_SBCK_001-5b11}
   - {type: punctuation, offset: 2945, content: (, id: KR3a0014_krp_001-bkkpn384}
   - {type: variant, offset: 2945, length: 1, content: 玷, WYG: ''}
+  - {type: voice, offset: 2945, length: 3, name: note, id: n104}
   - {type: punctuation, offset: 2946, content: /, id: KR3a0014_krp_001-bkkpn385}
   - {type: page-break, offset: 2946, content: '', id: KR3a0014_WYG_001-8a, image: WYG0696/WYG0696-0529a.png}
   - {type: punctuation, offset: 2948, content: ), id: KR3a0014_krp_001-bkkpn386}
@@ -1239,6 +1343,7 @@ markers:
   - {type: line-break, offset: 2985, content: '', id: KR3a0014_SBCK_001-6a02}
   - {type: punctuation, offset: 2988, content: (, id: KR3a0014_krp_001-bkkpn387}
   - {type: variant, offset: 2988, length: 0, content: '', WYG: 詩云欲報之徳吴天罔極言孔子}
+  - {type: voice, offset: 2988, length: 26, name: note, id: n105}
   - {type: punctuation, offset: 3001, content: /, id: KR3a0014_krp_001-bkkpn388}
   - {type: variant, offset: 3001, length: 13, content: 詩云欲報之德昊天罔極言孔子, WYG: ''}
   - {type: punctuation, offset: 3014, content: ), id: KR3a0014_krp_001-bkkpn389}
@@ -1249,6 +1354,7 @@ markers:
   - {type: line-break, offset: 3020, content: '', id: KR3a0014_SBCK_001-6a03}
   - {type: punctuation, offset: 3020, content: (, id: KR3a0014_krp_001-bkkpn390}
   - {type: variant, offset: 3020, length: 7, content: 不可汩乱謙也擬, WYG: 儗}
+  - {type: voice, offset: 3020, length: 12, name: note, id: n106}
   - {type: punctuation, offset: 3026, content: /, id: KR3a0014_krp_001-bkkpn391}
   - {type: punctuation, offset: 3032, content: ), id: KR3a0014_krp_001-bkkpn392}
   - {type: variant, offset: 3032, length: 0, content: '', WYG: 不可汩亂謙也}
@@ -1259,6 +1365,7 @@ markers:
   - {type: variant, offset: 3057, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 3060, content: (, id: KR3a0014_krp_001-bkkpn393}
   - {type: variant, offset: 3060, length: 5, content: 謂目撃道存, WYG: ''}
+  - {type: voice, offset: 3060, length: 11, name: note, id: n107}
   - {type: punctuation, offset: 3065, content: /, id: KR3a0014_krp_001-bkkpn394}
   - {type: punctuation, offset: 3071, content: ), id: KR3a0014_krp_001-bkkpn395}
   - {type: variant, offset: 3071, length: 0, content: '', WYG: 謂日撃道存}
@@ -1272,6 +1379,7 @@ markers:
   - {type: line-break, offset: 3093, content: '', id: KR3a0014_SBCK_001-6a06}
   - {type: punctuation, offset: 3094, content: (, id: KR3a0014_krp_001-bkkpn396}
   - {type: variant, offset: 3094, length: 0, content: '', WYG: 不得其言}
+  - {type: voice, offset: 3094, length: 8, name: note, id: n108}
   - {type: punctuation, offset: 3098, content: /, id: KR3a0014_krp_001-bkkpn397}
   - {type: variant, offset: 3098, length: 4, content: 不得其言, WYG: ''}
   - {type: punctuation, offset: 3102, content: ), id: KR3a0014_krp_001-bkkpn398}
@@ -1281,6 +1389,7 @@ markers:
   - {type: line-break, offset: 3117, content: '', id: KR3a0014_SBCK_001-6a07}
   - {type: punctuation, offset: 3135, content: (, id: KR3a0014_krp_001-bkkpn399}
   - {type: variant, offset: 3135, length: 0, content: '', WYG: 祜字}
+  - {type: voice, offset: 3135, length: 50, name: note, id: n109}
   - {type: punctuation, offset: 3137, content: /, id: KR3a0014_krp_001-bkkpn400}
   - {type: variant, offset: 3137, length: 0, content: '', WYG: 晉欲平吴以}
   - {type: variant, offset: 3138, length: 1, content: 字, WYG: 督荆州祜綏懐吴人吴之降者欲去則聴之}
@@ -1304,6 +1413,7 @@ markers:
   - {type: variant, offset: 3187, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 3194, content: (, id: KR3a0014_krp_001-bkkpn405}
   - {type: variant, offset: 3194, length: 0, content: '', WYG: 不悟}
+  - {type: voice, offset: 3194, length: 4, name: note, id: n110}
   - {type: punctuation, offset: 3196, content: /, id: KR3a0014_krp_001-bkkpn406}
   - {type: variant, offset: 3196, length: 2, content: 不悟, WYG: ''}
   - {type: punctuation, offset: 3198, content: ), id: KR3a0014_krp_001-bkkpn407}
@@ -1319,6 +1429,7 @@ markers:
   - {type: line-break, offset: 3229, content: '', id: KR3a0014_SBCK_001-6a11}
   - {type: punctuation, offset: 3236, content: (, id: KR3a0014_krp_001-bkkpn408}
   - {type: variant, offset: 3236, length: 0, content: '', WYG: 折横也衝直也麾兵横}
+  - {type: voice, offset: 3236, length: 18, name: note, id: n111}
   - {type: punctuation, offset: 3245, content: /, id: KR3a0014_krp_001-bkkpn409}
   - {type: variant, offset: 3245, length: 9, content: 折横也衝直也麾兵横, WYG: ''}
   - {type: punctuation, offset: 3254, content: ), id: KR3a0014_krp_001-bkkpn410}
@@ -1333,11 +1444,13 @@ markers:
   - {type: variant, offset: 3263, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 3264, length: 1, content: 噐, WYG: 器不假}
   - {type: punctuation, offset: 3267, content: (, id: KR3a0014_krp_001-bkkpn411}
+  - {type: voice, offset: 3267, length: 3, name: note, id: n112}
   - {type: punctuation, offset: 3268, content: /, id: KR3a0014_krp_001-bkkpn412}
   - {type: variant, offset: 3268, length: 2, content: 不假, WYG: ''}
   - {type: punctuation, offset: 3270, content: ), id: KR3a0014_krp_001-bkkpn413}
   - {type: punctuation, offset: 3279, content: (, id: KR3a0014_krp_001-bkkpn414}
   - {type: variant, offset: 3279, length: 0, content: '', WYG: 正}
+  - {type: voice, offset: 3279, length: 6, name: note, id: n113}
   - {type: punctuation, offset: 3280, content: /, id: KR3a0014_krp_001-bkkpn415}
   - {type: variant, offset: 3280, length: 0, content: '', WYG: 以}
   - {type: punctuation, offset: 3281, content: ), id: KR3a0014_krp_001-bkkpn416}
@@ -1355,11 +1468,13 @@ markers:
   - {type: line-break, offset: 3303, content: '', id: KR3a0014_SBCK_001-6b03}
   - {type: punctuation, offset: 3303, content: (, id: KR3a0014_krp_001-bkkpn420}
   - {type: variant, offset: 3303, length: 0, content: '', WYG: 隋多無}
+  - {type: voice, offset: 3303, length: 6, name: note, id: n114}
   - {type: punctuation, offset: 3306, content: /, id: KR3a0014_krp_001-bkkpn421}
   - {type: variant, offset: 3306, length: 3, content: 隋多无, WYG: ''}
   - {type: punctuation, offset: 3309, content: ), id: KR3a0014_krp_001-bkkpn422}
   - {type: punctuation, offset: 3322, content: (, id: KR3a0014_krp_001-bkkpn423}
   - {type: variant, offset: 3322, length: 0, content: '', WYG: 續書有七制皆}
+  - {type: voice, offset: 3322, length: 33, name: note, id: n115}
   - {type: punctuation, offset: 3328, content: /, id: KR3a0014_krp_001-bkkpn424}
   - {type: variant, offset: 3328, length: 16, content: 續書有七制皆孝宣光武本明孝章是也, WYG: ''}
   - {type: punctuation, offset: 3334, content: ), id: KR3a0014_krp_001-bkkpn425}
@@ -1373,6 +1488,7 @@ markers:
   - {type: variant, offset: 3355, length: 0, content: '', WYG: 孝宣光武孝明孝章是也}
   - {type: punctuation, offset: 3365, content: (, id: KR3a0014_krp_001-bkkpn429}
   - {type: variant, offset: 3365, length: 0, content: '', WYG: 不}
+  - {type: voice, offset: 3365, length: 31, name: note, id: n116}
   - {type: punctuation, offset: 3366, content: /, id: KR3a0014_krp_001-bkkpn430}
   - {type: variant, offset: 3366, length: 15, content: 不也哭野則太踈故折中於寢門之外, WYG: ''}
   - {type: punctuation, offset: 3367, content: ), id: KR3a0014_krp_001-bkkpn431}
@@ -1387,6 +1503,7 @@ markers:
   - {type: variant, offset: 3396, length: 0, content: '', WYG: 也哭野則太疎故折中於寢門之外}
   - {type: variant, offset: 3399, length: 0, content: '', WYG: 弔知生者弔彼}
   - {type: punctuation, offset: 3400, content: (, id: KR3a0014_krp_001-bkkpn435}
+  - {type: voice, offset: 3400, length: 13, name: note, id: n117}
   - {type: punctuation, offset: 3406, content: /, id: KR3a0014_krp_001-bkkpn436}
   - {type: variant, offset: 3406, length: 6, content: 知生者弔彼弔, WYG: ''}
   - {type: punctuation, offset: 3412, content: ), id: KR3a0014_krp_001-bkkpn437}
@@ -1402,6 +1519,7 @@ markers:
   - {type: line-break, offset: 3432, content: '', id: KR3a0014_SBCK_001-6b07}
   - {type: punctuation, offset: 3438, content: (, id: KR3a0014_krp_001-bkkpn440}
   - {type: variant, offset: 3438, length: 0, content: '', WYG: 玠字叔寶善談𤣥理}
+  - {type: voice, offset: 3438, length: 15, name: note, id: n118}
   - {type: variant, offset: 3439, length: 1, content: 青, WYG: 情}
   - {type: punctuation, offset: 3445, content: /, id: KR3a0014_krp_001-bkkpn441}
   - {type: variant, offset: 3445, length: 8, content: 玠字叔宝善談玄理, WYG: ''}
@@ -1409,6 +1527,7 @@ markers:
   - {type: punctuation, offset: 3453, content: ), id: KR3a0014_krp_001-bkkpn442}
   - {type: punctuation, offset: 3457, content: (, id: KR3a0014_krp_001-bkkpn443}
   - {type: variant, offset: 3457, length: 0, content: '', WYG: 量寛}
+  - {type: voice, offset: 3457, length: 4, name: note, id: n119}
   - {type: punctuation, offset: 3459, content: /, id: KR3a0014_krp_001-bkkpn444}
   - {type: variant, offset: 3459, length: 2, content: 量寛, WYG: ''}
   - {type: punctuation, offset: 3461, content: ), id: KR3a0014_krp_001-bkkpn445}
@@ -1418,11 +1537,13 @@ markers:
   - {type: line-break, offset: 3463, content: '', id: KR3a0014_SBCK_001-6b08}
   - {type: punctuation, offset: 3464, content: (, id: KR3a0014_krp_001-bkkpn446}
   - {type: variant, offset: 3464, length: 1, content: 仁, WYG: ''}
+  - {type: voice, offset: 3464, length: 3, name: note, id: n120}
   - {type: punctuation, offset: 3465, content: /, id: KR3a0014_krp_001-bkkpn447}
   - {type: punctuation, offset: 3467, content: ), id: KR3a0014_krp_001-bkkpn448}
   - {type: variant, offset: 3467, length: 0, content: '', WYG: 仁}
   - {type: punctuation, offset: 3472, content: (, id: KR3a0014_krp_001-bkkpn449}
   - {type: variant, offset: 3472, length: 3, content: 非伹寛, WYG: ''}
+  - {type: voice, offset: 3472, length: 7, name: note, id: n121}
   - {type: punctuation, offset: 3475, content: /, id: KR3a0014_krp_001-bkkpn450}
   - {type: punctuation, offset: 3479, content: ), id: KR3a0014_krp_001-bkkpn451}
   - {type: variant, offset: 3479, length: 0, content: '', WYG: 非但寛}
@@ -1435,11 +1556,13 @@ markers:
   - {type: variant, offset: 3490, length: 1, content: 甞, WYG: 嘗}
   - {type: punctuation, offset: 3497, content: (, id: KR3a0014_krp_001-bkkpn452}
   - {type: variant, offset: 3497, length: 0, content: '', WYG: 籍字嗣宗口}
+  - {type: voice, offset: 3497, length: 10, name: note, id: n122}
   - {type: punctuation, offset: 3502, content: /, id: KR3a0014_krp_001-bkkpn453}
   - {type: variant, offset: 3502, length: 5, content: 籍字嗣宗口, WYG: ''}
   - {type: punctuation, offset: 3507, content: ), id: KR3a0014_krp_001-bkkpn454}
   - {type: punctuation, offset: 3511, content: (, id: KR3a0014_krp_001-bkkpn455}
   - {type: variant, offset: 3511, length: 0, content: '', WYG: 慎言}
+  - {type: voice, offset: 3511, length: 4, name: note, id: n123}
   - {type: punctuation, offset: 3513, content: /, id: KR3a0014_krp_001-bkkpn456}
   - {type: variant, offset: 3513, length: 2, content: 慎言, WYG: ''}
   - {type: punctuation, offset: 3515, content: ), id: KR3a0014_krp_001-bkkpn457}
@@ -1449,16 +1572,19 @@ markers:
   - {type: line-break, offset: 3517, content: '', id: KR3a0014_SBCK_001-6b10}
   - {type: punctuation, offset: 3518, content: (, id: KR3a0014_krp_001-bkkpn458}
   - {type: variant, offset: 3518, length: 1, content: 仁, WYG: ''}
+  - {type: voice, offset: 3518, length: 3, name: note, id: n124}
   - {type: punctuation, offset: 3519, content: /, id: KR3a0014_krp_001-bkkpn459}
   - {type: punctuation, offset: 3521, content: ), id: KR3a0014_krp_001-bkkpn460}
   - {type: variant, offset: 3521, length: 0, content: '', WYG: 仁}
   - {type: punctuation, offset: 3526, content: (, id: KR3a0014_krp_001-bkkpn461}
   - {type: variant, offset: 3526, length: 0, content: '', WYG: 仁非}
+  - {type: voice, offset: 3526, length: 4, name: note, id: n125}
   - {type: punctuation, offset: 3528, content: /, id: KR3a0014_krp_001-bkkpn462}
   - {type: variant, offset: 3528, length: 2, content: 仁非, WYG: ''}
   - {type: punctuation, offset: 3530, content: ), id: KR3a0014_krp_001-bkkpn463}
   - {type: punctuation, offset: 3536, content: (, id: KR3a0014_krp_001-bkkpn464}
   - {type: variant, offset: 3536, length: 0, content: '', WYG: 凌敬}
+  - {type: voice, offset: 3536, length: 4, name: note, id: n126}
   - {type: punctuation, offset: 3538, content: /, id: KR3a0014_krp_001-bkkpn465}
   - {type: variant, offset: 3538, length: 2, content: 凌敬, WYG: ''}
   - {type: punctuation, offset: 3540, content: ), id: KR3a0014_krp_001-bkkpn466}
@@ -1470,6 +1596,7 @@ markers:
   - {type: variant, offset: 3545, length: 1, content: 己, WYG: 已}
   - {type: punctuation, offset: 3547, content: (, id: KR3a0014_krp_001-bkkpn467}
   - {type: variant, offset: 3547, length: 1, content: 幼, WYG: 以已心為人之心曰恕孟子曰㓜}
+  - {type: voice, offset: 3547, length: 23, name: note, id: n127}
   - {type: punctuation, offset: 3558, content: /, id: KR3a0014_krp_001-bkkpn468}
   - {type: variant, offset: 3558, length: 12, content: 以已心爲人之心曰恕孟子曰, WYG: ''}
   - {type: punctuation, offset: 3570, content: ), id: KR3a0014_krp_001-bkkpn469}
@@ -1488,6 +1615,7 @@ markers:
   - {type: line-break, offset: 3595, content: '', id: KR3a0014_SBCK_001-7a02}
   - {type: punctuation, offset: 3602, content: (, id: KR3a0014_krp_001-bkkpn470}
   - {type: variant, offset: 3602, length: 0, content: '', WYG: 仁無為而理智達於未亂}
+  - {type: voice, offset: 3602, length: 19, name: note, id: n128}
   - {type: variant, offset: 3607, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 3611, content: /, id: KR3a0014_krp_001-bkkpn471}
   - {type: variant, offset: 3611, length: 10, content: 仁无爲而理智逹於未乱, WYG: ''}
@@ -1498,6 +1626,7 @@ markers:
   - {type: line-break, offset: 3626, content: '', id: KR3a0014_SBCK_001-7a03}
   - {type: punctuation, offset: 3638, content: (, id: KR3a0014_krp_001-bkkpn473}
   - {type: variant, offset: 3638, length: 0, content: '', WYG: 剛必果}
+  - {type: voice, offset: 3638, length: 6, name: note, id: n129}
   - {type: punctuation, offset: 3641, content: /, id: KR3a0014_krp_001-bkkpn474}
   - {type: variant, offset: 3641, length: 3, content: 剛必果, WYG: ''}
   - {type: punctuation, offset: 3644, content: ), id: KR3a0014_krp_001-bkkpn475}
@@ -1510,6 +1639,7 @@ markers:
   - {type: variant, offset: 3663, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 3667, content: (, id: KR3a0014_krp_001-bkkpn476}
   - {type: variant, offset: 3667, length: 0, content: '', WYG: 行成}
+  - {type: voice, offset: 3667, length: 14, name: note, id: n130}
   - {type: variant, offset: 3668, length: 1, content: 德, WYG: 徳成道徳}
   - {type: punctuation, offset: 3669, content: /, id: KR3a0014_krp_001-bkkpn477}
   - {type: punctuation, offset: 3671, content: ), id: KR3a0014_krp_001-bkkpn478}
@@ -1525,6 +1655,7 @@ markers:
   - {type: variant, offset: 3687, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 3690, content: (, id: KR3a0014_krp_001-bkkpn482}
   - {type: variant, offset: 3690, length: 3, content: 三德云, WYG: ''}
+  - {type: voice, offset: 3690, length: 7, name: note, id: n131}
   - {type: punctuation, offset: 3693, content: /, id: KR3a0014_krp_001-bkkpn483}
   - {type: variant, offset: 3694, length: 1, content: 礼, WYG: 禮}
   - {type: punctuation, offset: 3697, content: ), id: KR3a0014_krp_001-bkkpn484}
@@ -1536,11 +1667,13 @@ markers:
   - {type: variant, offset: 3704, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 3706, content: (, id: KR3a0014_krp_001-bkkpn485}
   - {type: variant, offset: 3706, length: 0, content: '', WYG: 繫辭}
+  - {type: voice, offset: 3706, length: 3, name: note, id: n132}
   - {type: punctuation, offset: 3707, content: /, id: KR3a0014_krp_001-bkkpn486}
   - {type: variant, offset: 3707, length: 2, content: 係辝, WYG: ''}
   - {type: punctuation, offset: 3709, content: ), id: KR3a0014_krp_001-bkkpn487}
   - {type: punctuation, offset: 3719, content: (, id: KR3a0014_krp_001-bkkpn488}
   - {type: variant, offset: 3719, length: 3, content: 曰自岀, WYG: ''}
+  - {type: voice, offset: 3719, length: 6, name: note, id: n133}
   - {type: punctuation, offset: 3722, content: /, id: KR3a0014_krp_001-bkkpn489}
   - {type: punctuation, offset: 3725, content: ), id: KR3a0014_krp_001-bkkpn490}
   - {type: variant, offset: 3725, length: 0, content: '', WYG: 曰自出}
@@ -1551,6 +1684,7 @@ markers:
   - {type: variant, offset: 3734, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 3736, content: (, id: KR3a0014_krp_001-bkkpn491}
   - {type: variant, offset: 3736, length: 1, content: 无, WYG: 無體則無}
+  - {type: voice, offset: 3736, length: 5, name: note, id: n134}
   - {type: punctuation, offset: 3738, content: /, id: KR3a0014_krp_001-bkkpn492}
   - {type: variant, offset: 3738, length: 3, content: 无躰則, WYG: ''}
   - {type: punctuation, offset: 3741, content: ), id: KR3a0014_krp_001-bkkpn493}
@@ -1561,11 +1695,13 @@ markers:
   - {type: line-break, offset: 3749, content: '', id: KR3a0014_SBCK_001-7a08}
   - {type: punctuation, offset: 3753, content: (, id: KR3a0014_krp_001-bkkpn494}
   - {type: variant, offset: 3753, length: 0, content: '', WYG: 和而有宜曰}
+  - {type: voice, offset: 3753, length: 10, name: note, id: n135}
   - {type: punctuation, offset: 3758, content: /, id: KR3a0014_krp_001-bkkpn495}
   - {type: variant, offset: 3758, length: 5, content: 和而有冝曰, WYG: ''}
   - {type: punctuation, offset: 3763, content: ), id: KR3a0014_krp_001-bkkpn496}
   - {type: punctuation, offset: 3769, content: (, id: KR3a0014_krp_001-bkkpn497}
   - {type: variant, offset: 3769, length: 3, content: 唐延州, WYG: ''}
+  - {type: voice, offset: 3769, length: 7, name: note, id: n136}
   - {type: punctuation, offset: 3772, content: /, id: KR3a0014_krp_001-bkkpn498}
   - {type: punctuation, offset: 3776, content: ), id: KR3a0014_krp_001-bkkpn499}
   - {type: variant, offset: 3776, length: 0, content: '', WYG: 唐延州}
@@ -1576,6 +1712,7 @@ markers:
   - {type: variant, offset: 3780, length: 1, content: 關, SBCK: 􅀜}
   - {type: punctuation, offset: 3781, content: (, id: KR3a0014_krp_001-bkkpn500}
   - {type: variant, offset: 3781, length: 0, content: '', WYG: 河中有}
+  - {type: voice, offset: 3781, length: 6, name: note, id: n137}
   - {type: punctuation, offset: 3784, content: /, id: KR3a0014_krp_001-bkkpn501}
   - {type: variant, offset: 3784, length: 3, content: 河中有, WYG: ''}
   - {type: punctuation, offset: 3787, content: ), id: KR3a0014_krp_001-bkkpn502}
@@ -1587,6 +1724,7 @@ markers:
   - {type: page-break, offset: 3801, content: '', id: KR3a0014_WYG_001-10a, image: WYG0696/WYG0696-0530a.png}
   - {type: punctuation, offset: 3810, content: (, id: KR3a0014_krp_001-bkkpn503}
   - {type: variant, offset: 3810, length: 0, content: '', WYG: 險不}
+  - {type: voice, offset: 3810, length: 4, name: note, id: n138}
   - {type: punctuation, offset: 3812, content: /, id: KR3a0014_krp_001-bkkpn504}
   - {type: variant, offset: 3812, length: 2, content: 險不, WYG: ''}
   - {type: punctuation, offset: 3814, content: ), id: KR3a0014_krp_001-bkkpn505}
@@ -1597,6 +1735,7 @@ markers:
   - {type: line-break, offset: 3823, content: '', id: KR3a0014_SBCK_001-7a11}
   - {type: variant, offset: 3837, length: 2, content: 逹見, WYG: 達}
   - {type: punctuation, offset: 3838, content: (, id: KR3a0014_krp_001-bkkpn506}
+  - {type: voice, offset: 3838, length: 3, name: note, id: n139}
   - {type: punctuation, offset: 3839, content: /, id: KR3a0014_krp_001-bkkpn507}
   - {type: punctuation, offset: 3841, content: ), id: KR3a0014_krp_001-bkkpn508}
   - {type: variant, offset: 3841, length: 0, content: '', WYG: 見}
@@ -1615,6 +1754,7 @@ markers:
   - {type: line-break, offset: 3864, content: '', id: KR3a0014_SBCK_001-7b02}
   - {type: punctuation, offset: 3869, content: (, id: KR3a0014_krp_001-bkkpn509}
   - {type: variant, offset: 3869, length: 0, content: '', WYG: 劉峻字孝標性率多毁時任昉死有子東里冬衣}
+  - {type: voice, offset: 3869, length: 42, name: note, id: n140}
   - {type: punctuation, offset: 3888, content: /, id: KR3a0014_krp_001-bkkpn510}
   - {type: variant, offset: 3888, length: 19, content: 劉峻字孝標性率多毀時任昉死有子東里冬衣, WYG: 不知}
   - {type: punctuation, offset: 3907, content: ), id: KR3a0014_krp_001-bkkpn511}
@@ -1628,6 +1768,7 @@ markers:
   - {type: punctuation, offset: 3911, content: ), id: KR3a0014_krp_001-bkkpn514}
   - {type: punctuation, offset: 3920, content: (, id: KR3a0014_krp_001-bkkpn515}
   - {type: variant, offset: 3920, length: 11, content: 不遇乃謂窮逹由天殊不由, WYG: ''}
+  - {type: voice, offset: 3920, length: 31, name: note, id: n141}
   - {type: punctuation, offset: 3931, content: /, id: KR3a0014_krp_001-bkkpn516}
   - {type: punctuation, offset: 3942, content: ), id: KR3a0014_krp_001-bkkpn517}
   - {type: 'kr:newline', offset: 3942, content: '
@@ -1641,6 +1782,7 @@ markers:
   - {type: variant, offset: 3951, length: 0, content: '', WYG: 廢人道也}
   - {type: punctuation, offset: 3966, content: (, id: KR3a0014_krp_001-bkkpn521}
   - {type: variant, offset: 3966, length: 0, content: '', WYG: 孔}
+  - {type: voice, offset: 3966, length: 28, name: note, id: n142}
   - {type: punctuation, offset: 3967, content: /, id: KR3a0014_krp_001-bkkpn522}
   - {type: variant, offset: 3967, length: 1, content: 孔, WYG: 言普天之下莫非漢民志在天下}
   - {type: punctuation, offset: 3968, content: ), id: KR3a0014_krp_001-bkkpn523}
@@ -1660,6 +1802,7 @@ markers:
   - {type: variant, offset: 4011, length: 1, content: 𥘉, WYG: 初}
   - {type: punctuation, offset: 4016, content: (, id: KR3a0014_krp_001-bkkpn527}
   - {type: variant, offset: 4016, length: 0, content: '', WYG: 夏侯𤣥字太初著樂}
+  - {type: voice, offset: 4016, length: 57, name: note, id: n143}
   - {type: page-break, offset: 4020, content: '', id: KR3a0014_WYG_001-10b, image: WYG0696/WYG0696-0530b.png}
   - {type: punctuation, offset: 4024, content: /, id: KR3a0014_krp_001-bkkpn528}
   - {type: variant, offset: 4024, length: 8, content: 夏侯玄字太𥘉著樂, WYG: 莒二城者其志以天下為心非兼并齊國而已仁哉美}
@@ -1684,6 +1827,7 @@ markers:
   - {type: variant, offset: 4084, length: 1, content: 鬼, SBCK: 􅀑}
   - {type: punctuation, offset: 4085, content: (, id: KR3a0014_krp_001-bkkpn533}
   - {type: variant, offset: 4085, length: 0, content: '', WYG: 阮瞻作無鬼論謂可以辯幽}
+  - {type: voice, offset: 4085, length: 21, name: note, id: n144}
   - {type: variant, offset: 4094, length: 12, content: 言阮瞻作无鬼論謂可以辯幽, WYG: 旨}
   - {type: punctuation, offset: 4095, content: /, id: KR3a0014_krp_001-bkkpn534}
   - {type: variant, offset: 4099, length: 1, content: 鬼, SBCK: 􅀑}
@@ -1697,4 +1841,4 @@ markers:
 
       ', id: KR3a0014_krp_001-bkkkrnewl166}
   back: []
-hash: sha256:2d45c9a0e654e4694e195b2adbd1eaa2c86ce419a49260281977f459ae2af36f
+hash: sha256:d713a64c157355f57d81c66d243b300fb9adfb23c5dcfcb936915722352f5792
